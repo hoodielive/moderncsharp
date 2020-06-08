@@ -1,0 +1,13 @@
+/home/awo/Clones/moderncsharp/Monte/Monte/bin/Debug/netcoreapp3.1/Monte
+/home/awo/Clones/moderncsharp/Monte/Monte/bin/Debug/netcoreapp3.1/Monte.deps.json
+/home/awo/Clones/moderncsharp/Monte/Monte/bin/Debug/netcoreapp3.1/Monte.runtimeconfig.json
+/home/awo/Clones/moderncsharp/Monte/Monte/bin/Debug/netcoreapp3.1/Monte.runtimeconfig.dev.json
+/home/awo/Clones/moderncsharp/Monte/Monte/bin/Debug/netcoreapp3.1/Monte.dll
+/home/awo/Clones/moderncsharp/Monte/Monte/bin/Debug/netcoreapp3.1/Monte.pdb
+/home/awo/Clones/moderncsharp/Monte/Monte/obj/Debug/netcoreapp3.1/Monte.csprojAssemblyReference.cache
+/home/awo/Clones/moderncsharp/Monte/Monte/obj/Debug/netcoreapp3.1/Monte.AssemblyInfoInputs.cache
+/home/awo/Clones/moderncsharp/Monte/Monte/obj/Debug/netcoreapp3.1/Monte.AssemblyInfo.cs
+/home/awo/Clones/moderncsharp/Monte/Monte/obj/Debug/netcoreapp3.1/Monte.csproj.CoreCompileInputs.cache
+/home/awo/Clones/moderncsharp/Monte/Monte/obj/Debug/netcoreapp3.1/Monte.dll
+/home/awo/Clones/moderncsharp/Monte/Monte/obj/Debug/netcoreapp3.1/Monte.pdb
+/home/awo/Clones/moderncsharp/Monte/Monte/obj/Debug/netcoreapp3.1/Monte.genruntimeconfig.cache
