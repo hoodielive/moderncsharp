@@ -4,6 +4,7 @@ public static class SayHelloRobot
 {
 	public static void Main()
 	{
-		Console.WriteLine("Enter the world of Programming.");
+		string someString = "Computer, did we bring batteries? Computer?";
+		Console.WriteLine(someString);
 	}
 }
