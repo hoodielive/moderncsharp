@@ -4,12 +4,31 @@ class Tutorial
 {
 	static void Main()
 	{
-		Console.WriteLine(FeetToInches("30"));
+		Console.WriteLine(ReturnAString("Mr.String"));
+		Console.WriteLine(ReturnAInt(14));
 	}
 
-	static string FeetToInches(string feet)
+	static string ReturnAString(string astring)
 	{
-		string result = feet; 
+		string result = astring; 
 		return result;
+	}
+
+	static int ReturnAInteger(int aint)
+	{
+		int result = aint;
+		return result;
+	}
+
+	static char ReturnAChar(char letter)
+	{
+		char result = letter;
+		return result;
+	}
+
+	static System.Int32 ReturnAInt(System.Int32 aint)
+	{
+		System.Int32 result = aint;
+		return aint;
 	}
 }
