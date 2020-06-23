@@ -1,0 +1,14 @@
+Some Terminology
+
+Element or Item:
+	An object (or struct) in a collection
+
+Enumerate or Iterate 
+	
+Look up an item 
+	Access an individual element in a collection 
+	For Ex: 
+		Get day by number: 
+		1  -> Monday
+		or 
+		n'th 
