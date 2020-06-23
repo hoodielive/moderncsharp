@@ -6,6 +6,7 @@ class Tutorial
 	{
 		Console.WriteLine(ReturnAString("Mr.String"));
 		Console.WriteLine(ReturnAInt(14));
+		Console.WriteLine(ReturnAChar('c'));
 	}
 
 	static string ReturnAString(string astring)
