@@ -11,7 +11,19 @@ class CsvReader
 
 	public Country[] ReadFirstNCountries(int nCountries)
 	{
-		Country[] countries = new Country[nCountries];
+		using (StreamReader sr = new StreamReader(_csvFilePath))
+		{
+			// Read the header line.
+
+			sr.ReadLine();
+
+			for (int i = 0; i < nCountries; i++)
+			{
+				string csvLine = sr.ReadLine();
+				countries[i] = ReadCountryFromCsvLine(csvLine);
+			}
+		}
+		
 		return countries;
 	}
 
