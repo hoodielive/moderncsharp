@@ -25,12 +25,10 @@ class Program
 		Console.Write("(Monday = 1, etc.) > ");
 
 		// Store the index of the List/Array.
+
 		int iDay = Int32.Parse(Console.ReadLine());
 
 		string chosenDay = daysOfWeek[iDay - 1];
 		Console.WriteLine($"That day is {chosenDay}");
 	}
 }
-
-
-
