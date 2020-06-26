@@ -1,0 +1,13 @@
+/home/awo/Clones/moderncsharp/CustomS/bin/Debug/netcoreapp3.1/CustomS
+/home/awo/Clones/moderncsharp/CustomS/bin/Debug/netcoreapp3.1/CustomS.deps.json
+/home/awo/Clones/moderncsharp/CustomS/bin/Debug/netcoreapp3.1/CustomS.runtimeconfig.json
+/home/awo/Clones/moderncsharp/CustomS/bin/Debug/netcoreapp3.1/CustomS.runtimeconfig.dev.json
+/home/awo/Clones/moderncsharp/CustomS/bin/Debug/netcoreapp3.1/CustomS.dll
+/home/awo/Clones/moderncsharp/CustomS/bin/Debug/netcoreapp3.1/CustomS.pdb
+/home/awo/Clones/moderncsharp/CustomS/obj/Debug/netcoreapp3.1/CustomS.csprojAssemblyReference.cache
+/home/awo/Clones/moderncsharp/CustomS/obj/Debug/netcoreapp3.1/CustomS.AssemblyInfoInputs.cache
+/home/awo/Clones/moderncsharp/CustomS/obj/Debug/netcoreapp3.1/CustomS.AssemblyInfo.cs
+/home/awo/Clones/moderncsharp/CustomS/obj/Debug/netcoreapp3.1/CustomS.csproj.CoreCompileInputs.cache
+/home/awo/Clones/moderncsharp/CustomS/obj/Debug/netcoreapp3.1/CustomS.dll
+/home/awo/Clones/moderncsharp/CustomS/obj/Debug/netcoreapp3.1/CustomS.pdb
+/home/awo/Clones/moderncsharp/CustomS/obj/Debug/netcoreapp3.1/CustomS.genruntimeconfig.cache
