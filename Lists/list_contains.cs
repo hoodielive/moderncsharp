@@ -14,8 +14,7 @@ namespace Lists
 			firstList.Add(3);
 			firstList.Add(4);
 			firstList.Add(5);
-			firstList.Add(6);
-
+			firstList.Add(6); 
 			Console.Write(firstList.Contains(4));
 
 			Point p1 = new Point();
@@ -32,24 +31,24 @@ namespace Lists
 			Console.WriteLine(p2.X);
 
 			PointClass p3 = new PointClass();
-			p3.XPoint = 55;
-
-			PointClass p4 = p3;
+			p3.X = 55;
+			p4 = p3;
 
 			Console.WriteLine(p3.XPoint);
 			Console.WriteLine(p4.YPoint);
 		}
-
+	}
 		public struct Point
 		{
 			public int X;
 			public int Y;
 		}
-
 		public class PointClass
 		{
-			public int XPoint;
-			public int YPoint;
+			int Pointclass()
+			{
+				PointClass X;
+				PointClass Y;
+			}
 		}
-	}
 }
