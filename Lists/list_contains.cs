@@ -34,8 +34,8 @@ namespace Lists
 			p3.X = 55;
 			p4 = p3;
 
-			Console.WriteLine(p3.XPoint);
-			Console.WriteLine(p4.YPoint);
+			Console.WriteLine(p3.X);
+			Console.WriteLine(p4.Y);
 		}
 	}
 		public struct Point
