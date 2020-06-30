@@ -11,14 +11,4 @@ namespace Prax
 			Square s2 = (Square)r; // Down
 		}
 	}
-	class Rectangle
-	{
-		public int x = 10, y = 10;
-		public int GetArea() 
-		{
-			return x * y;
-		}
-	}
-
-	class Square : Rectangle {}
 }
