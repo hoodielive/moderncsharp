@@ -1,0 +1,4 @@
+/home/awo/Clones/moderncsharp/Prax/obj/Debug/netcoreapp3.1/Prax.csprojAssemblyReference.cache
+/home/awo/Clones/moderncsharp/Prax/obj/Debug/netcoreapp3.1/Prax.AssemblyInfoInputs.cache
+/home/awo/Clones/moderncsharp/Prax/obj/Debug/netcoreapp3.1/Prax.AssemblyInfo.cs
+/home/awo/Clones/moderncsharp/Prax/obj/Debug/netcoreapp3.1/Prax.csproj.CoreCompileInputs.cache
