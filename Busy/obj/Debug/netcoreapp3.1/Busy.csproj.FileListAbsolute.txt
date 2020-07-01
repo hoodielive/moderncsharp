@@ -1,0 +1,4 @@
+/home/awo/Clones/moderncsharp/Busy/obj/Debug/netcoreapp3.1/Busy.csprojAssemblyReference.cache
+/home/awo/Clones/moderncsharp/Busy/obj/Debug/netcoreapp3.1/Busy.AssemblyInfoInputs.cache
+/home/awo/Clones/moderncsharp/Busy/obj/Debug/netcoreapp3.1/Busy.AssemblyInfo.cs
+/home/awo/Clones/moderncsharp/Busy/obj/Debug/netcoreapp3.1/Busy.csproj.CoreCompileInputs.cache
