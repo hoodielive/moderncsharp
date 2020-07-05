@@ -1,3 +1,5 @@
+using System;
+
 public abstract class Salesman
 {
    private string _firstName;
@@ -17,4 +19,8 @@ public abstract class Salesman
    }
 
    public abstract void Sell();
+   public virtual void Seller() 
+   {
+      Console.WriteLine("Seller will remain private.");
+   }
 }
