@@ -1,6 +1,6 @@
 namespace NodeAccess
 {
-    public class ConstructInherit : ConstructBase(0)
+    public class ConstructInherit : ConstructBase
     {
         
         public int X { get; set; }
