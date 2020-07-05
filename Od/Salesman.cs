@@ -10,7 +10,6 @@ public abstract class Salesman
          return string.Format("{0} {1}", this._firstName, this._lastName);
       }
    }
-
    public Salesman(string firstName, string lastName)
    {
       this._firstName = firstName;
