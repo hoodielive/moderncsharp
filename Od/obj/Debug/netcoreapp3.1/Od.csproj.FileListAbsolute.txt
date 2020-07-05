@@ -1,0 +1,12 @@
+/Users/onibode/Clones/moderncsharp/Od/bin/Debug/netcoreapp3.1/Od.deps.json
+/Users/onibode/Clones/moderncsharp/Od/bin/Debug/netcoreapp3.1/Od.runtimeconfig.json
+/Users/onibode/Clones/moderncsharp/Od/bin/Debug/netcoreapp3.1/Od.runtimeconfig.dev.json
+/Users/onibode/Clones/moderncsharp/Od/bin/Debug/netcoreapp3.1/Od.dll
+/Users/onibode/Clones/moderncsharp/Od/bin/Debug/netcoreapp3.1/Od.pdb
+/Users/onibode/Clones/moderncsharp/Od/obj/Debug/netcoreapp3.1/Od.csprojAssemblyReference.cache
+/Users/onibode/Clones/moderncsharp/Od/obj/Debug/netcoreapp3.1/Od.csproj.CoreCompileInputs.cache
+/Users/onibode/Clones/moderncsharp/Od/obj/Debug/netcoreapp3.1/Od.AssemblyInfoInputs.cache
+/Users/onibode/Clones/moderncsharp/Od/obj/Debug/netcoreapp3.1/Od.AssemblyInfo.cs
+/Users/onibode/Clones/moderncsharp/Od/obj/Debug/netcoreapp3.1/Od.dll
+/Users/onibode/Clones/moderncsharp/Od/obj/Debug/netcoreapp3.1/Od.pdb
+/Users/onibode/Clones/moderncsharp/Od/obj/Debug/netcoreapp3.1/Od.genruntimeconfig.cache
