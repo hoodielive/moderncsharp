@@ -1,0 +1,12 @@
+/Users/onibode/Clones/moderncsharp/Intranquil/bin/Debug/netcoreapp3.1/Intranquil.deps.json
+/Users/onibode/Clones/moderncsharp/Intranquil/bin/Debug/netcoreapp3.1/Intranquil.runtimeconfig.json
+/Users/onibode/Clones/moderncsharp/Intranquil/bin/Debug/netcoreapp3.1/Intranquil.runtimeconfig.dev.json
+/Users/onibode/Clones/moderncsharp/Intranquil/bin/Debug/netcoreapp3.1/Intranquil.dll
+/Users/onibode/Clones/moderncsharp/Intranquil/bin/Debug/netcoreapp3.1/Intranquil.pdb
+/Users/onibode/Clones/moderncsharp/Intranquil/obj/Debug/netcoreapp3.1/Intranquil.csprojAssemblyReference.cache
+/Users/onibode/Clones/moderncsharp/Intranquil/obj/Debug/netcoreapp3.1/Intranquil.csproj.CoreCompileInputs.cache
+/Users/onibode/Clones/moderncsharp/Intranquil/obj/Debug/netcoreapp3.1/Intranquil.AssemblyInfoInputs.cache
+/Users/onibode/Clones/moderncsharp/Intranquil/obj/Debug/netcoreapp3.1/Intranquil.AssemblyInfo.cs
+/Users/onibode/Clones/moderncsharp/Intranquil/obj/Debug/netcoreapp3.1/Intranquil.dll
+/Users/onibode/Clones/moderncsharp/Intranquil/obj/Debug/netcoreapp3.1/Intranquil.pdb
+/Users/onibode/Clones/moderncsharp/Intranquil/obj/Debug/netcoreapp3.1/Intranquil.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+/Users/onibode/Clones/moderncsharp/NodeAccess/bin/Debug/netcoreapp3.1/NodeAccess.deps.json
+/Users/onibode/Clones/moderncsharp/NodeAccess/bin/Debug/netcoreapp3.1/NodeAccess.runtimeconfig.json
+/Users/onibode/Clones/moderncsharp/NodeAccess/bin/Debug/netcoreapp3.1/NodeAccess.runtimeconfig.dev.json
+/Users/onibode/Clones/moderncsharp/NodeAccess/bin/Debug/netcoreapp3.1/NodeAccess.dll
+/Users/onibode/Clones/moderncsharp/NodeAccess/bin/Debug/netcoreapp3.1/NodeAccess.pdb
+/Users/onibode/Clones/moderncsharp/NodeAccess/obj/Debug/netcoreapp3.1/NodeAccess.csprojAssemblyReference.cache
+/Users/onibode/Clones/moderncsharp/NodeAccess/obj/Debug/netcoreapp3.1/NodeAccess.csproj.CoreCompileInputs.cache
+/Users/onibode/Clones/moderncsharp/NodeAccess/obj/Debug/netcoreapp3.1/NodeAccess.AssemblyInfoInputs.cache
+/Users/onibode/Clones/moderncsharp/NodeAccess/obj/Debug/netcoreapp3.1/NodeAccess.AssemblyInfo.cs
+/Users/onibode/Clones/moderncsharp/NodeAccess/obj/Debug/netcoreapp3.1/NodeAccess.dll
+/Users/onibode/Clones/moderncsharp/NodeAccess/obj/Debug/netcoreapp3.1/NodeAccess.pdb
+/Users/onibode/Clones/moderncsharp/NodeAccess/obj/Debug/netcoreapp3.1/NodeAccess.genruntimeconfig.cache
