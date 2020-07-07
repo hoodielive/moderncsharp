@@ -25,10 +25,10 @@ namespace Klaus
 
     public class Vampires : TheOriginals
     {
-       public Vampires(string name, string age, string power) : base(name, age, power) 
-       {
-           public string killIT; 
-       }
+        public Vampires() {}
+        public Vampires(string name, string age, string power) : base(name, age, power) 
+        {
+            public string killIt { get; set; }
+        }
     }
-
 }
