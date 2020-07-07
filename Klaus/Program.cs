@@ -4,9 +4,27 @@ namespace Klaus
 {
     class Program
     {
-        static void Main(string[] args)
+    
+    }
+
+    public abstract class TheOriginals
+    {
+        private string _Name { get; set; }
+        private string _Age { get; set; }
+        private string _Power { get; set; }
+
+        public TheOriginals() {}
+        
+        public TheOriginals(string name, string age, string power)
         {
-            Console.WriteLine("Hello World!");
+            this._Name = name;
+            this._Age = age; 
+            this._Power = power;
+        }
+
+        extern string Evocation()
+        {
+            [DllImport("dllportion")];
         }
     }
 }
