@@ -1,0 +1,4 @@
+/Users/onibode/Clones/moderncsharp/Klaus/obj/Debug/netcoreapp3.1/Klaus.csprojAssemblyReference.cache
+/Users/onibode/Clones/moderncsharp/Klaus/obj/Debug/netcoreapp3.1/Klaus.csproj.CoreCompileInputs.cache
+/Users/onibode/Clones/moderncsharp/Klaus/obj/Debug/netcoreapp3.1/Klaus.AssemblyInfoInputs.cache
+/Users/onibode/Clones/moderncsharp/Klaus/obj/Debug/netcoreapp3.1/Klaus.AssemblyInfo.cs

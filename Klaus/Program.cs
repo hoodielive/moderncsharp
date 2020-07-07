@@ -23,12 +23,18 @@ namespace Klaus
         }
     }
 
-    public class Vampires : TheOriginals
+    public abstract class Vampires : TheOriginals
     {
+        public string killIt { get; set; }
+
         public Vampires() {}
         public Vampires(string name, string age, string power) : base(name, age, power) 
         {
-            public string killIt { get; set; }
+           public string NameType;
+
+           Vampires NamePower;  
         }
+
+        public extern string returnVampireName();
     }
 }
