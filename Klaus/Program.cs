@@ -7,7 +7,7 @@ namespace Klaus
     
     }
 
-    public abstract class TheOriginals
+    public class TheOriginals
     {
         private string _Name { get; set; }
         private string _Age { get; set; }
@@ -21,10 +21,14 @@ namespace Klaus
             this._Age = age; 
             this._Power = power;
         }
-
-        extern string Evocation()
-        {
-            [DllImport("dllportion")];
-        }
     }
+
+    public class Vampires : TheOriginals
+    {
+       public Vampires(string name, string age, string power) : base(name, age, power) 
+       {
+           public string killIT; 
+       }
+    }
+
 }
