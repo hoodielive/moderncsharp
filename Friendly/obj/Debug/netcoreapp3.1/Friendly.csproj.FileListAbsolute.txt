@@ -1,0 +1,13 @@
+/home/awo/Clones/moderncsharp/Friendly/obj/Debug/netcoreapp3.1/Friendly.csprojAssemblyReference.cache
+/home/awo/Clones/moderncsharp/Friendly/obj/Debug/netcoreapp3.1/Friendly.AssemblyInfoInputs.cache
+/home/awo/Clones/moderncsharp/Friendly/obj/Debug/netcoreapp3.1/Friendly.AssemblyInfo.cs
+/home/awo/Clones/moderncsharp/Friendly/obj/Debug/netcoreapp3.1/Friendly.csproj.CoreCompileInputs.cache
+/home/awo/Clones/moderncsharp/Friendly/bin/Debug/netcoreapp3.1/Friendly
+/home/awo/Clones/moderncsharp/Friendly/bin/Debug/netcoreapp3.1/Friendly.deps.json
+/home/awo/Clones/moderncsharp/Friendly/bin/Debug/netcoreapp3.1/Friendly.runtimeconfig.json
+/home/awo/Clones/moderncsharp/Friendly/bin/Debug/netcoreapp3.1/Friendly.runtimeconfig.dev.json
+/home/awo/Clones/moderncsharp/Friendly/bin/Debug/netcoreapp3.1/Friendly.dll
+/home/awo/Clones/moderncsharp/Friendly/bin/Debug/netcoreapp3.1/Friendly.pdb
+/home/awo/Clones/moderncsharp/Friendly/obj/Debug/netcoreapp3.1/Friendly.dll
+/home/awo/Clones/moderncsharp/Friendly/obj/Debug/netcoreapp3.1/Friendly.pdb
+/home/awo/Clones/moderncsharp/Friendly/obj/Debug/netcoreapp3.1/Friendly.genruntimeconfig.cache
