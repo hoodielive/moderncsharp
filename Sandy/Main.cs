@@ -10,14 +10,28 @@ namespace Sandy
 		}
 	}
 
-	class PicklesAndRectangles
+	class Pickles
 	{
-		public int x, y; 
-		public PicklesAndRectangles(int x, int y)
+
+		private int _x; 
+
+		private int _y; 
+
+		string? name; 
+
+		protected internal string Z;
+
+
+		public Pickles() {}
+
+		public Pickles(int x, int y)
 		{
 			this.x = x; 
 			this.y = y;
 		}
+
+		public abstract void returnPickles();
 	}
+
 }
 
