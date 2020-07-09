@@ -1,11 +1,14 @@
 ﻿using System;
 
-namespace Sandy
+namespace sandy
 {
-	class Wall
+	class wall
 	{
-		static main void Main()
+		public static void main()
 		{
+			pickles prelay = new pickles();
+
+			prelay.YallBetterRecognize();
 
 		}
 	}
@@ -30,8 +33,27 @@ namespace Sandy
 			this.y = y;
 		}
 
-		public abstract void returnPickles();
-	}
+		// public abstract void returnPickles();
 
+		public string BodyIsPureGold() 
+		{
+
+		}
+
+		public string YallBetterRecognize()
+		{
+			string[] words = { "apple", "strawberry", "grape", "peach", "banana" };
+
+			var wordQuery = from word in words
+											where word[0] == 'g'
+											select word;
+
+			foreach (string s in wordQuery)
+			{
+				Console.WriteLine(s);
+			}
+
+		}
+	}
 }
 
