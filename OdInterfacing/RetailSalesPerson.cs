@@ -17,5 +17,15 @@ namespace OdInterfacing
         {
             Console.WriteLine("I develop myself by watching retail sales training videos.");
         }
+
+        public void Clarify()
+        {
+            Console.WriteLine("Some people are born - others are made.");
+        }
+
+        public void Model()
+        {
+            Console.WriteLine("Dont drive like an idiot, please...");
+        }
     }
 }

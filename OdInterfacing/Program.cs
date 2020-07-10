@@ -17,6 +17,18 @@ namespace OdInterfacing
             WebDeveloper nick = new WebDeveloper("Csharp");
             nick.Code();
             nick.Develop();
+            nick.Model();
+            nick.Clarify();
+
+            WebDeveloper vinny = new WebDeveloper("Python");
+            vinny.Code();
+            vinny.Develop();
+            vinny.Model();
+            vinny.Clarify();
+
+            SoftwareDeveloper beazly = new SoftwareDeveloper("Rust");
+            beazly.Republic();
+
         }
     }
 }
