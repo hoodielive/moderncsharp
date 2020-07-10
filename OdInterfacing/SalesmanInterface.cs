@@ -1,4 +1,4 @@
-namespace Od
+namespace OdInterfacing
 {
     public interface SalesmanInterface
     {

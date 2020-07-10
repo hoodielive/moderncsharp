@@ -1,6 +1,6 @@
 using System;
 
-namespace Od 
+namespace OdInterfacing
 {
     public class RetailSalesPerson : Salesman
     {
