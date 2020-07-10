@@ -5,6 +5,8 @@ namespace OdInterfacing
     public abstract class Developer 
     {
         private string _mainDevLanguage; 
+        public string firstExtraDevLanguage;
+        public string secondExtraDevLanguage;
 
         public Developer(string mainDevLanguage)
         {
@@ -19,11 +21,9 @@ namespace OdInterfacing
             }
             else if (firstExtraDevLanguage != null && secondExtraDevLanguage != null)
             {
-                Console.WriteLine(string.Format("I am coding using my main dev {0}. Additionally I am using {1} and {2} as an extra language", this._mainDevLanguage, this.firstExtraDevLanguage, this.secondExtraDevLanguage));
-                    
-                }))
+                Console.WriteLine(string.Format("I am coding using my main dev {0}. Additionally I am using {1} and {2} as an extra language", 
+                this._mainDevLanguage, this.firstExtraDevLanguage, this.secondExtraDevLanguage));
             }
         }
     }
-
 }
