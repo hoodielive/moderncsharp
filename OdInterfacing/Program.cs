@@ -13,6 +13,10 @@ namespace OdInterfacing
             RetailSalesPerson sherrifHood = new RetailSalesPerson("Sherrif", "Hood");
             Console.WriteLine(sherrifHood.FullName);
             sherrifHood.Sell();
+
+            WebDeveloper nick = new WebDeveloper("Csharp");
+            nick.Code();
+            nick.Develop();
         }
     }
 }
