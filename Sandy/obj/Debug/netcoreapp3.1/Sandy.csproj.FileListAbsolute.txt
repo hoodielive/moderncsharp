@@ -1,0 +1,4 @@
+/home/awo/Clones/moderncsharp/Sandy/obj/Debug/netcoreapp3.1/Sandy.csprojAssemblyReference.cache
+/home/awo/Clones/moderncsharp/Sandy/obj/Debug/netcoreapp3.1/Sandy.AssemblyInfoInputs.cache
+/home/awo/Clones/moderncsharp/Sandy/obj/Debug/netcoreapp3.1/Sandy.AssemblyInfo.cs
+/home/awo/Clones/moderncsharp/Sandy/obj/Debug/netcoreapp3.1/Sandy.csproj.CoreCompileInputs.cache
