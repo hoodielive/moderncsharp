@@ -1,0 +1,13 @@
+/home/awo/Clones/moderncsharp/Misc/Voodoo/obj/Debug/netcoreapp3.1/Voodoo.csprojAssemblyReference.cache
+/home/awo/Clones/moderncsharp/Misc/Voodoo/obj/Debug/netcoreapp3.1/Voodoo.AssemblyInfoInputs.cache
+/home/awo/Clones/moderncsharp/Misc/Voodoo/obj/Debug/netcoreapp3.1/Voodoo.AssemblyInfo.cs
+/home/awo/Clones/moderncsharp/Misc/Voodoo/obj/Debug/netcoreapp3.1/Voodoo.csproj.CoreCompileInputs.cache
+/home/awo/Clones/moderncsharp/Misc/Voodoo/bin/Debug/netcoreapp3.1/Voodoo
+/home/awo/Clones/moderncsharp/Misc/Voodoo/bin/Debug/netcoreapp3.1/Voodoo.deps.json
+/home/awo/Clones/moderncsharp/Misc/Voodoo/bin/Debug/netcoreapp3.1/Voodoo.runtimeconfig.json
+/home/awo/Clones/moderncsharp/Misc/Voodoo/bin/Debug/netcoreapp3.1/Voodoo.runtimeconfig.dev.json
+/home/awo/Clones/moderncsharp/Misc/Voodoo/bin/Debug/netcoreapp3.1/Voodoo.dll
+/home/awo/Clones/moderncsharp/Misc/Voodoo/bin/Debug/netcoreapp3.1/Voodoo.pdb
+/home/awo/Clones/moderncsharp/Misc/Voodoo/obj/Debug/netcoreapp3.1/Voodoo.dll
+/home/awo/Clones/moderncsharp/Misc/Voodoo/obj/Debug/netcoreapp3.1/Voodoo.pdb
+/home/awo/Clones/moderncsharp/Misc/Voodoo/obj/Debug/netcoreapp3.1/Voodoo.genruntimeconfig.cache
