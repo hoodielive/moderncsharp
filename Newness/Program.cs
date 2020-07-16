@@ -6,7 +6,28 @@ namespace Newness
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+					Enum Status {
+						Enabled, 
+						Disabled,
+						Alive,
+						Dead
+					};
+
+					Status player = Status.Alive; 
+
+					switch(player)
+					{
+						case Status.Alive:
+							Console.WriteLine("Its alive!");
+							break;
+						case Status.Enabled:
+							Console.WriteLine("Its Enabled but not Alive."); 
+						case Status.Disabled:
+							Console.WriteLine("This item is disabled"); 
+						default: 
+							Console.WriteLine("Try Again.");
+					}
+					
         }
     }
 }

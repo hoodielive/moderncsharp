@@ -1,0 +1,4 @@
+/home/awo/Clones/moderncsharp/Newness/obj/Debug/netcoreapp3.1/Newness.csprojAssemblyReference.cache
+/home/awo/Clones/moderncsharp/Newness/obj/Debug/netcoreapp3.1/Newness.AssemblyInfoInputs.cache
+/home/awo/Clones/moderncsharp/Newness/obj/Debug/netcoreapp3.1/Newness.AssemblyInfo.cs
+/home/awo/Clones/moderncsharp/Newness/obj/Debug/netcoreapp3.1/Newness.csproj.CoreCompileInputs.cache
