@@ -6,12 +6,20 @@ namespace Newness
     {
         static void Main(string[] args)
         {
-					Enum Status {
+					enum Status 
+					{
 						Enabled, 
 						Disabled,
 						Alive,
 						Dead
 					};
+
+					enum Status : byte
+					{
+						Alive = 1,
+						Injured, 
+						Dead
+					}
 
 					Status player = Status.Alive; 
 
