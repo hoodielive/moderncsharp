@@ -1,0 +1,13 @@
+/home/awo/Clones/moderncsharp/RunTypes/bin/Debug/netcoreapp3.1/RunTypes
+/home/awo/Clones/moderncsharp/RunTypes/bin/Debug/netcoreapp3.1/RunTypes.deps.json
+/home/awo/Clones/moderncsharp/RunTypes/bin/Debug/netcoreapp3.1/RunTypes.runtimeconfig.json
+/home/awo/Clones/moderncsharp/RunTypes/bin/Debug/netcoreapp3.1/RunTypes.runtimeconfig.dev.json
+/home/awo/Clones/moderncsharp/RunTypes/bin/Debug/netcoreapp3.1/RunTypes.dll
+/home/awo/Clones/moderncsharp/RunTypes/bin/Debug/netcoreapp3.1/RunTypes.pdb
+/home/awo/Clones/moderncsharp/RunTypes/obj/Debug/netcoreapp3.1/RunTypes.csprojAssemblyReference.cache
+/home/awo/Clones/moderncsharp/RunTypes/obj/Debug/netcoreapp3.1/RunTypes.AssemblyInfoInputs.cache
+/home/awo/Clones/moderncsharp/RunTypes/obj/Debug/netcoreapp3.1/RunTypes.AssemblyInfo.cs
+/home/awo/Clones/moderncsharp/RunTypes/obj/Debug/netcoreapp3.1/RunTypes.csproj.CoreCompileInputs.cache
+/home/awo/Clones/moderncsharp/RunTypes/obj/Debug/netcoreapp3.1/RunTypes.dll
+/home/awo/Clones/moderncsharp/RunTypes/obj/Debug/netcoreapp3.1/RunTypes.pdb
+/home/awo/Clones/moderncsharp/RunTypes/obj/Debug/netcoreapp3.1/RunTypes.genruntimeconfig.cache
