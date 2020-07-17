@@ -14,15 +14,7 @@ namespace Newness
 						Dead
 					};
 
-					enum Status : byte
-					{
-						Alive = 1,
-						Injured, 
-						Dead
-					}
-
 					Status player = Status.Alive; 
-
 					switch(player)
 					{
 						case Status.Alive:
@@ -34,8 +26,20 @@ namespace Newness
 							Console.WriteLine("This item is disabled"); 
 						default: 
 							Console.WriteLine("Try Again.");
+
+							Vector vector = new Vector(); 
+							vector.x = 5; 
+							vector.y = 10;
+
+							Console.WriteLine("x = {0}", vector.x);
+							Console.WriteLine("y = {0}", vector.y);
 					}
-					
         }
+
+				struct Vector
+				{
+					public int x; 
+					public int y;
+				}
     }
 }
