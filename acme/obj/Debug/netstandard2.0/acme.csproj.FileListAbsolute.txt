@@ -1,0 +1,9 @@
+/home/awo/Clones/moderncsharp/acme/bin/Debug/netstandard2.0/acme.deps.json
+/home/awo/Clones/moderncsharp/acme/bin/Debug/netstandard2.0/acme.dll
+/home/awo/Clones/moderncsharp/acme/bin/Debug/netstandard2.0/acme.pdb
+/home/awo/Clones/moderncsharp/acme/obj/Debug/netstandard2.0/acme.csprojAssemblyReference.cache
+/home/awo/Clones/moderncsharp/acme/obj/Debug/netstandard2.0/acme.AssemblyInfoInputs.cache
+/home/awo/Clones/moderncsharp/acme/obj/Debug/netstandard2.0/acme.AssemblyInfo.cs
+/home/awo/Clones/moderncsharp/acme/obj/Debug/netstandard2.0/acme.csproj.CoreCompileInputs.cache
+/home/awo/Clones/moderncsharp/acme/obj/Debug/netstandard2.0/acme.dll
+/home/awo/Clones/moderncsharp/acme/obj/Debug/netstandard2.0/acme.pdb

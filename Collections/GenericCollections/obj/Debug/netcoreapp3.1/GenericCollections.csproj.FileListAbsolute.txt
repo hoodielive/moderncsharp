@@ -1,0 +1,13 @@
+/home/awo/Clones/moderncsharp/Collections/GenericCollections/obj/Debug/netcoreapp3.1/GenericCollections.csprojAssemblyReference.cache
+/home/awo/Clones/moderncsharp/Collections/GenericCollections/obj/Debug/netcoreapp3.1/GenericCollections.AssemblyInfoInputs.cache
+/home/awo/Clones/moderncsharp/Collections/GenericCollections/obj/Debug/netcoreapp3.1/GenericCollections.AssemblyInfo.cs
+/home/awo/Clones/moderncsharp/Collections/GenericCollections/obj/Debug/netcoreapp3.1/GenericCollections.csproj.CoreCompileInputs.cache
+/home/awo/Clones/moderncsharp/Collections/GenericCollections/bin/Debug/netcoreapp3.1/GenericCollections
+/home/awo/Clones/moderncsharp/Collections/GenericCollections/bin/Debug/netcoreapp3.1/GenericCollections.deps.json
+/home/awo/Clones/moderncsharp/Collections/GenericCollections/bin/Debug/netcoreapp3.1/GenericCollections.runtimeconfig.json
+/home/awo/Clones/moderncsharp/Collections/GenericCollections/bin/Debug/netcoreapp3.1/GenericCollections.runtimeconfig.dev.json
+/home/awo/Clones/moderncsharp/Collections/GenericCollections/bin/Debug/netcoreapp3.1/GenericCollections.dll
+/home/awo/Clones/moderncsharp/Collections/GenericCollections/bin/Debug/netcoreapp3.1/GenericCollections.pdb
+/home/awo/Clones/moderncsharp/Collections/GenericCollections/obj/Debug/netcoreapp3.1/GenericCollections.dll
+/home/awo/Clones/moderncsharp/Collections/GenericCollections/obj/Debug/netcoreapp3.1/GenericCollections.pdb
+/home/awo/Clones/moderncsharp/Collections/GenericCollections/obj/Debug/netcoreapp3.1/GenericCollections.genruntimeconfig.cache
