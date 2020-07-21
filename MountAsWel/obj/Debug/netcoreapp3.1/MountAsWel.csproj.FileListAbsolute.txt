@@ -1,0 +1,13 @@
+/home/awo/Clones/moderncsharp/MountAsWel/bin/Debug/netcoreapp3.1/MountAsWel
+/home/awo/Clones/moderncsharp/MountAsWel/bin/Debug/netcoreapp3.1/MountAsWel.deps.json
+/home/awo/Clones/moderncsharp/MountAsWel/bin/Debug/netcoreapp3.1/MountAsWel.runtimeconfig.json
+/home/awo/Clones/moderncsharp/MountAsWel/bin/Debug/netcoreapp3.1/MountAsWel.runtimeconfig.dev.json
+/home/awo/Clones/moderncsharp/MountAsWel/bin/Debug/netcoreapp3.1/MountAsWel.dll
+/home/awo/Clones/moderncsharp/MountAsWel/bin/Debug/netcoreapp3.1/MountAsWel.pdb
+/home/awo/Clones/moderncsharp/MountAsWel/obj/Debug/netcoreapp3.1/MountAsWel.csprojAssemblyReference.cache
+/home/awo/Clones/moderncsharp/MountAsWel/obj/Debug/netcoreapp3.1/MountAsWel.AssemblyInfoInputs.cache
+/home/awo/Clones/moderncsharp/MountAsWel/obj/Debug/netcoreapp3.1/MountAsWel.AssemblyInfo.cs
+/home/awo/Clones/moderncsharp/MountAsWel/obj/Debug/netcoreapp3.1/MountAsWel.csproj.CoreCompileInputs.cache
+/home/awo/Clones/moderncsharp/MountAsWel/obj/Debug/netcoreapp3.1/MountAsWel.dll
+/home/awo/Clones/moderncsharp/MountAsWel/obj/Debug/netcoreapp3.1/MountAsWel.pdb
+/home/awo/Clones/moderncsharp/MountAsWel/obj/Debug/netcoreapp3.1/MountAsWel.genruntimeconfig.cache
