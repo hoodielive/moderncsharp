@@ -1,0 +1,4 @@
+/home/awo/Clones/moderncsharp/NullableTypesAndShit/obj/Debug/netcoreapp3.1/NullableTypesAndShit.csprojAssemblyReference.cache
+/home/awo/Clones/moderncsharp/NullableTypesAndShit/obj/Debug/netcoreapp3.1/NullableTypesAndShit.AssemblyInfoInputs.cache
+/home/awo/Clones/moderncsharp/NullableTypesAndShit/obj/Debug/netcoreapp3.1/NullableTypesAndShit.AssemblyInfo.cs
+/home/awo/Clones/moderncsharp/NullableTypesAndShit/obj/Debug/netcoreapp3.1/NullableTypesAndShit.csproj.CoreCompileInputs.cache
