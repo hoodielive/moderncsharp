@@ -2,3 +2,12 @@
 /home/awo/Clones/moderncsharp/Tuplology/obj/Debug/netcoreapp3.1/Tuplology.AssemblyInfoInputs.cache
 /home/awo/Clones/moderncsharp/Tuplology/obj/Debug/netcoreapp3.1/Tuplology.AssemblyInfo.cs
 /home/awo/Clones/moderncsharp/Tuplology/obj/Debug/netcoreapp3.1/Tuplology.csproj.CoreCompileInputs.cache
+/home/awo/Clones/moderncsharp/Tuplology/bin/Debug/netcoreapp3.1/Tuplology
+/home/awo/Clones/moderncsharp/Tuplology/bin/Debug/netcoreapp3.1/Tuplology.deps.json
+/home/awo/Clones/moderncsharp/Tuplology/bin/Debug/netcoreapp3.1/Tuplology.runtimeconfig.json
+/home/awo/Clones/moderncsharp/Tuplology/bin/Debug/netcoreapp3.1/Tuplology.runtimeconfig.dev.json
+/home/awo/Clones/moderncsharp/Tuplology/bin/Debug/netcoreapp3.1/Tuplology.dll
+/home/awo/Clones/moderncsharp/Tuplology/bin/Debug/netcoreapp3.1/Tuplology.pdb
+/home/awo/Clones/moderncsharp/Tuplology/obj/Debug/netcoreapp3.1/Tuplology.dll
+/home/awo/Clones/moderncsharp/Tuplology/obj/Debug/netcoreapp3.1/Tuplology.pdb
+/home/awo/Clones/moderncsharp/Tuplology/obj/Debug/netcoreapp3.1/Tuplology.genruntimeconfig.cache
