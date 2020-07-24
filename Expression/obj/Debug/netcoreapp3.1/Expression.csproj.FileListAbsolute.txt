@@ -1,0 +1,13 @@
+/home/awo/Clones/moderncsharp/Expression/obj/Debug/netcoreapp3.1/Expression.csprojAssemblyReference.cache
+/home/awo/Clones/moderncsharp/Expression/obj/Debug/netcoreapp3.1/Expression.AssemblyInfoInputs.cache
+/home/awo/Clones/moderncsharp/Expression/obj/Debug/netcoreapp3.1/Expression.AssemblyInfo.cs
+/home/awo/Clones/moderncsharp/Expression/obj/Debug/netcoreapp3.1/Expression.csproj.CoreCompileInputs.cache
+/home/awo/Clones/moderncsharp/Expression/bin/Debug/netcoreapp3.1/Expression
+/home/awo/Clones/moderncsharp/Expression/bin/Debug/netcoreapp3.1/Expression.deps.json
+/home/awo/Clones/moderncsharp/Expression/bin/Debug/netcoreapp3.1/Expression.runtimeconfig.json
+/home/awo/Clones/moderncsharp/Expression/bin/Debug/netcoreapp3.1/Expression.runtimeconfig.dev.json
+/home/awo/Clones/moderncsharp/Expression/bin/Debug/netcoreapp3.1/Expression.dll
+/home/awo/Clones/moderncsharp/Expression/bin/Debug/netcoreapp3.1/Expression.pdb
+/home/awo/Clones/moderncsharp/Expression/obj/Debug/netcoreapp3.1/Expression.dll
+/home/awo/Clones/moderncsharp/Expression/obj/Debug/netcoreapp3.1/Expression.pdb
+/home/awo/Clones/moderncsharp/Expression/obj/Debug/netcoreapp3.1/Expression.genruntimeconfig.cache
