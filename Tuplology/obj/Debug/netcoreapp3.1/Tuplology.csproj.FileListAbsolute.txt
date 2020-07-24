@@ -1,0 +1,4 @@
+/home/awo/Clones/moderncsharp/Tuplology/obj/Debug/netcoreapp3.1/Tuplology.csprojAssemblyReference.cache
+/home/awo/Clones/moderncsharp/Tuplology/obj/Debug/netcoreapp3.1/Tuplology.AssemblyInfoInputs.cache
+/home/awo/Clones/moderncsharp/Tuplology/obj/Debug/netcoreapp3.1/Tuplology.AssemblyInfo.cs
+/home/awo/Clones/moderncsharp/Tuplology/obj/Debug/netcoreapp3.1/Tuplology.csproj.CoreCompileInputs.cache
