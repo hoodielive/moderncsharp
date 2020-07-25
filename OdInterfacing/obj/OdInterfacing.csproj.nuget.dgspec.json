@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/onibode/Clones/moderncsharp/OdInterfacing/OdInterfacing.csproj": {}
+    "/home/awo/Clones/moderncsharp/OdInterfacing/OdInterfacing.csproj": {}
   },
   "projects": {
-    "/Users/onibode/Clones/moderncsharp/OdInterfacing/OdInterfacing.csproj": {
+    "/home/awo/Clones/moderncsharp/OdInterfacing/OdInterfacing.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/onibode/Clones/moderncsharp/OdInterfacing/OdInterfacing.csproj",
+        "projectUniqueName": "/home/awo/Clones/moderncsharp/OdInterfacing/OdInterfacing.csproj",
         "projectName": "OdInterfacing",
-        "projectPath": "/Users/onibode/Clones/moderncsharp/OdInterfacing/OdInterfacing.csproj",
-        "packagesPath": "/Users/onibode/.nuget/packages/",
-        "outputPath": "/Users/onibode/Clones/moderncsharp/OdInterfacing/obj/",
+        "projectPath": "/home/awo/Clones/moderncsharp/OdInterfacing/OdInterfacing.csproj",
+        "packagesPath": "/home/awo/.nuget/packages/",
+        "outputPath": "/home/awo/Clones/moderncsharp/OdInterfacing/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "/Users/onibode/.nuget/NuGet/NuGet.Config"
+          "/home/awo/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -53,7 +50,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.200/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.302/RuntimeIdentifierGraph.json"
         }
       }
     }

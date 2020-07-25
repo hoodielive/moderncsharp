@@ -10,3 +10,16 @@
 /Users/onibode/Clones/moderncsharp/OdInterfacing/obj/Debug/netcoreapp3.1/OdInterfacing.dll
 /Users/onibode/Clones/moderncsharp/OdInterfacing/obj/Debug/netcoreapp3.1/OdInterfacing.pdb
 /Users/onibode/Clones/moderncsharp/OdInterfacing/obj/Debug/netcoreapp3.1/OdInterfacing.genruntimeconfig.cache
+/home/awo/Clones/moderncsharp/OdInterfacing/bin/Debug/netcoreapp3.1/OdInterfacing
+/home/awo/Clones/moderncsharp/OdInterfacing/bin/Debug/netcoreapp3.1/OdInterfacing.deps.json
+/home/awo/Clones/moderncsharp/OdInterfacing/bin/Debug/netcoreapp3.1/OdInterfacing.runtimeconfig.json
+/home/awo/Clones/moderncsharp/OdInterfacing/bin/Debug/netcoreapp3.1/OdInterfacing.runtimeconfig.dev.json
+/home/awo/Clones/moderncsharp/OdInterfacing/bin/Debug/netcoreapp3.1/OdInterfacing.dll
+/home/awo/Clones/moderncsharp/OdInterfacing/bin/Debug/netcoreapp3.1/OdInterfacing.pdb
+/home/awo/Clones/moderncsharp/OdInterfacing/obj/Debug/netcoreapp3.1/OdInterfacing.csprojAssemblyReference.cache
+/home/awo/Clones/moderncsharp/OdInterfacing/obj/Debug/netcoreapp3.1/OdInterfacing.AssemblyInfoInputs.cache
+/home/awo/Clones/moderncsharp/OdInterfacing/obj/Debug/netcoreapp3.1/OdInterfacing.AssemblyInfo.cs
+/home/awo/Clones/moderncsharp/OdInterfacing/obj/Debug/netcoreapp3.1/OdInterfacing.csproj.CoreCompileInputs.cache
+/home/awo/Clones/moderncsharp/OdInterfacing/obj/Debug/netcoreapp3.1/OdInterfacing.dll
+/home/awo/Clones/moderncsharp/OdInterfacing/obj/Debug/netcoreapp3.1/OdInterfacing.pdb
+/home/awo/Clones/moderncsharp/OdInterfacing/obj/Debug/netcoreapp3.1/OdInterfacing.genruntimeconfig.cache
