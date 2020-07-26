@@ -1,0 +1,13 @@
+Z:\home\awo\Clones\moderncsharp\PolyMorphMe\bin\Debug\netcoreapp3.1\PolyMorphMe.exe
+Z:\home\awo\Clones\moderncsharp\PolyMorphMe\bin\Debug\netcoreapp3.1\PolyMorphMe.deps.json
+Z:\home\awo\Clones\moderncsharp\PolyMorphMe\bin\Debug\netcoreapp3.1\PolyMorphMe.runtimeconfig.json
+Z:\home\awo\Clones\moderncsharp\PolyMorphMe\bin\Debug\netcoreapp3.1\PolyMorphMe.runtimeconfig.dev.json
+Z:\home\awo\Clones\moderncsharp\PolyMorphMe\bin\Debug\netcoreapp3.1\PolyMorphMe.dll
+Z:\home\awo\Clones\moderncsharp\PolyMorphMe\bin\Debug\netcoreapp3.1\PolyMorphMe.pdb
+Z:\home\awo\Clones\moderncsharp\PolyMorphMe\obj\Debug\netcoreapp3.1\PolyMorphMe.csprojAssemblyReference.cache
+Z:\home\awo\Clones\moderncsharp\PolyMorphMe\obj\Debug\netcoreapp3.1\PolyMorphMe.AssemblyInfoInputs.cache
+Z:\home\awo\Clones\moderncsharp\PolyMorphMe\obj\Debug\netcoreapp3.1\PolyMorphMe.AssemblyInfo.cs
+Z:\home\awo\Clones\moderncsharp\PolyMorphMe\obj\Debug\netcoreapp3.1\PolyMorphMe.csproj.CoreCompileInputs.cache
+Z:\home\awo\Clones\moderncsharp\PolyMorphMe\obj\Debug\netcoreapp3.1\PolyMorphMe.dll
+Z:\home\awo\Clones\moderncsharp\PolyMorphMe\obj\Debug\netcoreapp3.1\PolyMorphMe.pdb
+Z:\home\awo\Clones\moderncsharp\PolyMorphMe\obj\Debug\netcoreapp3.1\PolyMorphMe.genruntimeconfig.cache

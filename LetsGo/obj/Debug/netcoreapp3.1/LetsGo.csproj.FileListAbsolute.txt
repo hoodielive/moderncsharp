@@ -1,0 +1,13 @@
+/home/awo/Clones/moderncsharp/LetsGo/bin/Debug/netcoreapp3.1/LetsGo
+/home/awo/Clones/moderncsharp/LetsGo/bin/Debug/netcoreapp3.1/LetsGo.deps.json
+/home/awo/Clones/moderncsharp/LetsGo/bin/Debug/netcoreapp3.1/LetsGo.runtimeconfig.json
+/home/awo/Clones/moderncsharp/LetsGo/bin/Debug/netcoreapp3.1/LetsGo.runtimeconfig.dev.json
+/home/awo/Clones/moderncsharp/LetsGo/bin/Debug/netcoreapp3.1/LetsGo.dll
+/home/awo/Clones/moderncsharp/LetsGo/bin/Debug/netcoreapp3.1/LetsGo.pdb
+/home/awo/Clones/moderncsharp/LetsGo/obj/Debug/netcoreapp3.1/LetsGo.csprojAssemblyReference.cache
+/home/awo/Clones/moderncsharp/LetsGo/obj/Debug/netcoreapp3.1/LetsGo.AssemblyInfoInputs.cache
+/home/awo/Clones/moderncsharp/LetsGo/obj/Debug/netcoreapp3.1/LetsGo.AssemblyInfo.cs
+/home/awo/Clones/moderncsharp/LetsGo/obj/Debug/netcoreapp3.1/LetsGo.csproj.CoreCompileInputs.cache
+/home/awo/Clones/moderncsharp/LetsGo/obj/Debug/netcoreapp3.1/LetsGo.dll
+/home/awo/Clones/moderncsharp/LetsGo/obj/Debug/netcoreapp3.1/LetsGo.pdb
+/home/awo/Clones/moderncsharp/LetsGo/obj/Debug/netcoreapp3.1/LetsGo.genruntimeconfig.cache
