@@ -1,0 +1,13 @@
+/home/awo/Clones/moderncsharp/TestKnowledge/bin/Debug/netcoreapp3.1/TestKnowledge
+/home/awo/Clones/moderncsharp/TestKnowledge/bin/Debug/netcoreapp3.1/TestKnowledge.deps.json
+/home/awo/Clones/moderncsharp/TestKnowledge/bin/Debug/netcoreapp3.1/TestKnowledge.runtimeconfig.json
+/home/awo/Clones/moderncsharp/TestKnowledge/bin/Debug/netcoreapp3.1/TestKnowledge.runtimeconfig.dev.json
+/home/awo/Clones/moderncsharp/TestKnowledge/bin/Debug/netcoreapp3.1/TestKnowledge.dll
+/home/awo/Clones/moderncsharp/TestKnowledge/bin/Debug/netcoreapp3.1/TestKnowledge.pdb
+/home/awo/Clones/moderncsharp/TestKnowledge/obj/Debug/netcoreapp3.1/TestKnowledge.csprojAssemblyReference.cache
+/home/awo/Clones/moderncsharp/TestKnowledge/obj/Debug/netcoreapp3.1/TestKnowledge.AssemblyInfoInputs.cache
+/home/awo/Clones/moderncsharp/TestKnowledge/obj/Debug/netcoreapp3.1/TestKnowledge.AssemblyInfo.cs
+/home/awo/Clones/moderncsharp/TestKnowledge/obj/Debug/netcoreapp3.1/TestKnowledge.csproj.CoreCompileInputs.cache
+/home/awo/Clones/moderncsharp/TestKnowledge/obj/Debug/netcoreapp3.1/TestKnowledge.dll
+/home/awo/Clones/moderncsharp/TestKnowledge/obj/Debug/netcoreapp3.1/TestKnowledge.pdb
+/home/awo/Clones/moderncsharp/TestKnowledge/obj/Debug/netcoreapp3.1/TestKnowledge.genruntimeconfig.cache
