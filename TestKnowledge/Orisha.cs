@@ -1,6 +1,6 @@
 using System;
 
-class Orisha
+public class Orisha
 {
 	private string _IYA; 
 	private string _BABA; 

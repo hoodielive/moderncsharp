@@ -1,6 +1,6 @@
 using System; 
 
-public class Yemoja : Orisha, IPower
+public class Yemoja : Orisha, Power
 {
 	public void Power()
 	{

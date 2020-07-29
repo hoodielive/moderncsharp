@@ -11,6 +11,9 @@ namespace TestKnowledge
 
 					 Yemoja yemoja = new Yemoja();
 					 yemoja.Power(); 
+		
+					 Ogun ogun = new Ogun();
+					 ogun.Power();
         }
     }
 }
