@@ -1,7 +1,7 @@
 ﻿using System;
 namespace TestKnowledge
 {
-    class Program
+    class OrishaProgram
     {
         static void Main(string[] args)
         {
@@ -14,6 +14,10 @@ namespace TestKnowledge
 		
 					 Ogun ogun = new Ogun();
 					 ogun.Power();
+
+					 FigureSomethingOut conventional = new FigureSomethingOut();
+					 var instantSuccess = conventional.FigureItOutYo("Onire");
+					 Console.WriteLine($"Hello, {instantSuccess}");
         }
     }
 }
