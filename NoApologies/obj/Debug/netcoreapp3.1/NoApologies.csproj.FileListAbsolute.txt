@@ -1,0 +1,4 @@
+/home/awo/Clones/moderncsharp/NoApologies/obj/Debug/netcoreapp3.1/NoApologies.csprojAssemblyReference.cache
+/home/awo/Clones/moderncsharp/NoApologies/obj/Debug/netcoreapp3.1/NoApologies.AssemblyInfoInputs.cache
+/home/awo/Clones/moderncsharp/NoApologies/obj/Debug/netcoreapp3.1/NoApologies.AssemblyInfo.cs
+/home/awo/Clones/moderncsharp/NoApologies/obj/Debug/netcoreapp3.1/NoApologies.csproj.CoreCompileInputs.cache
