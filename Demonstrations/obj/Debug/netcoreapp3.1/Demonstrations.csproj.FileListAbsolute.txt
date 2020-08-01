@@ -1,0 +1,13 @@
+/home/awo/Clones/moderncsharp/Demonstrations/obj/Debug/netcoreapp3.1/Demonstrations.csprojAssemblyReference.cache
+/home/awo/Clones/moderncsharp/Demonstrations/obj/Debug/netcoreapp3.1/Demonstrations.AssemblyInfoInputs.cache
+/home/awo/Clones/moderncsharp/Demonstrations/obj/Debug/netcoreapp3.1/Demonstrations.AssemblyInfo.cs
+/home/awo/Clones/moderncsharp/Demonstrations/obj/Debug/netcoreapp3.1/Demonstrations.csproj.CoreCompileInputs.cache
+/home/awo/Clones/moderncsharp/Demonstrations/bin/Debug/netcoreapp3.1/Demonstrations
+/home/awo/Clones/moderncsharp/Demonstrations/bin/Debug/netcoreapp3.1/Demonstrations.deps.json
+/home/awo/Clones/moderncsharp/Demonstrations/bin/Debug/netcoreapp3.1/Demonstrations.runtimeconfig.json
+/home/awo/Clones/moderncsharp/Demonstrations/bin/Debug/netcoreapp3.1/Demonstrations.runtimeconfig.dev.json
+/home/awo/Clones/moderncsharp/Demonstrations/bin/Debug/netcoreapp3.1/Demonstrations.dll
+/home/awo/Clones/moderncsharp/Demonstrations/bin/Debug/netcoreapp3.1/Demonstrations.pdb
+/home/awo/Clones/moderncsharp/Demonstrations/obj/Debug/netcoreapp3.1/Demonstrations.dll
+/home/awo/Clones/moderncsharp/Demonstrations/obj/Debug/netcoreapp3.1/Demonstrations.pdb
+/home/awo/Clones/moderncsharp/Demonstrations/obj/Debug/netcoreapp3.1/Demonstrations.genruntimeconfig.cache
