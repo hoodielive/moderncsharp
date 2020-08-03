@@ -1,0 +1,13 @@
+/home/awo/Clones/moderncsharp/RecursiveLove/obj/Debug/netcoreapp3.1/RecursiveLove.csprojAssemblyReference.cache
+/home/awo/Clones/moderncsharp/RecursiveLove/obj/Debug/netcoreapp3.1/RecursiveLove.AssemblyInfoInputs.cache
+/home/awo/Clones/moderncsharp/RecursiveLove/obj/Debug/netcoreapp3.1/RecursiveLove.AssemblyInfo.cs
+/home/awo/Clones/moderncsharp/RecursiveLove/obj/Debug/netcoreapp3.1/RecursiveLove.csproj.CoreCompileInputs.cache
+/home/awo/Clones/moderncsharp/RecursiveLove/bin/Debug/netcoreapp3.1/RecursiveLove
+/home/awo/Clones/moderncsharp/RecursiveLove/bin/Debug/netcoreapp3.1/RecursiveLove.deps.json
+/home/awo/Clones/moderncsharp/RecursiveLove/bin/Debug/netcoreapp3.1/RecursiveLove.runtimeconfig.json
+/home/awo/Clones/moderncsharp/RecursiveLove/bin/Debug/netcoreapp3.1/RecursiveLove.runtimeconfig.dev.json
+/home/awo/Clones/moderncsharp/RecursiveLove/bin/Debug/netcoreapp3.1/RecursiveLove.dll
+/home/awo/Clones/moderncsharp/RecursiveLove/bin/Debug/netcoreapp3.1/RecursiveLove.pdb
+/home/awo/Clones/moderncsharp/RecursiveLove/obj/Debug/netcoreapp3.1/RecursiveLove.dll
+/home/awo/Clones/moderncsharp/RecursiveLove/obj/Debug/netcoreapp3.1/RecursiveLove.pdb
+/home/awo/Clones/moderncsharp/RecursiveLove/obj/Debug/netcoreapp3.1/RecursiveLove.genruntimeconfig.cache
