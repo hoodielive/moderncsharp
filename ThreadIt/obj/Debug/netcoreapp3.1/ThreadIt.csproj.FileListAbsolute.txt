@@ -1,0 +1,4 @@
+/home/awo/Clones/moderncsharp/ThreadIt/obj/Debug/netcoreapp3.1/ThreadIt.csprojAssemblyReference.cache
+/home/awo/Clones/moderncsharp/ThreadIt/obj/Debug/netcoreapp3.1/ThreadIt.AssemblyInfoInputs.cache
+/home/awo/Clones/moderncsharp/ThreadIt/obj/Debug/netcoreapp3.1/ThreadIt.AssemblyInfo.cs
+/home/awo/Clones/moderncsharp/ThreadIt/obj/Debug/netcoreapp3.1/ThreadIt.csproj.CoreCompileInputs.cache
