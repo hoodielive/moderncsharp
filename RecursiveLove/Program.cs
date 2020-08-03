@@ -6,10 +6,14 @@ namespace RecursiveLove
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(Fib(35));
+            Console.WriteLine(Fib(35.9));
+						RecursiveFactorial recursiveLove = new RecursiveFactorial();
+
+						recursiveLove = recursiveLove.MainMence();
+						Console.WriteLine(recursiveLove);
         }
 
-				static long Fib(int n)
+				static double Fib(double n)
 				{
 					if (n <= 2)
 					{
