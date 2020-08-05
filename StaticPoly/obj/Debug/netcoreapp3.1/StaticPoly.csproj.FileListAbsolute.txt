@@ -1,0 +1,13 @@
+/home/awo/Clones/moderncsharp/StaticPoly/obj/Debug/netcoreapp3.1/StaticPoly.csprojAssemblyReference.cache
+/home/awo/Clones/moderncsharp/StaticPoly/obj/Debug/netcoreapp3.1/StaticPoly.AssemblyInfoInputs.cache
+/home/awo/Clones/moderncsharp/StaticPoly/obj/Debug/netcoreapp3.1/StaticPoly.AssemblyInfo.cs
+/home/awo/Clones/moderncsharp/StaticPoly/obj/Debug/netcoreapp3.1/StaticPoly.csproj.CoreCompileInputs.cache
+/home/awo/Clones/moderncsharp/StaticPoly/bin/Debug/netcoreapp3.1/StaticPoly
+/home/awo/Clones/moderncsharp/StaticPoly/bin/Debug/netcoreapp3.1/StaticPoly.deps.json
+/home/awo/Clones/moderncsharp/StaticPoly/bin/Debug/netcoreapp3.1/StaticPoly.runtimeconfig.json
+/home/awo/Clones/moderncsharp/StaticPoly/bin/Debug/netcoreapp3.1/StaticPoly.runtimeconfig.dev.json
+/home/awo/Clones/moderncsharp/StaticPoly/bin/Debug/netcoreapp3.1/StaticPoly.dll
+/home/awo/Clones/moderncsharp/StaticPoly/bin/Debug/netcoreapp3.1/StaticPoly.pdb
+/home/awo/Clones/moderncsharp/StaticPoly/obj/Debug/netcoreapp3.1/StaticPoly.dll
+/home/awo/Clones/moderncsharp/StaticPoly/obj/Debug/netcoreapp3.1/StaticPoly.pdb
+/home/awo/Clones/moderncsharp/StaticPoly/obj/Debug/netcoreapp3.1/StaticPoly.genruntimeconfig.cache
