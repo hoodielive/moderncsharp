@@ -1,0 +1,8 @@
+Static Polymorphism -> on a method level, components can be the same but have variant/differing behavior. 
+	It is permissiable in both concrete and abstract classes and interfaces. 
+
+	Abstract Classes (Classes to which concrete classes will inherit from)
+		Concrete Classes
+
+Dynamic Polymorphism -> on a class level, you need abstract classes or interfaces in order for it to work.
+
