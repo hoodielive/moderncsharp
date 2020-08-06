@@ -1,0 +1,13 @@
+/home/awo/Clones/moderncsharp/ImplementationOfPoly/obj/Debug/netcoreapp3.1/ImplementationOfPoly.csprojAssemblyReference.cache
+/home/awo/Clones/moderncsharp/ImplementationOfPoly/obj/Debug/netcoreapp3.1/ImplementationOfPoly.AssemblyInfoInputs.cache
+/home/awo/Clones/moderncsharp/ImplementationOfPoly/obj/Debug/netcoreapp3.1/ImplementationOfPoly.AssemblyInfo.cs
+/home/awo/Clones/moderncsharp/ImplementationOfPoly/obj/Debug/netcoreapp3.1/ImplementationOfPoly.csproj.CoreCompileInputs.cache
+/home/awo/Clones/moderncsharp/ImplementationOfPoly/bin/Debug/netcoreapp3.1/ImplementationOfPoly
+/home/awo/Clones/moderncsharp/ImplementationOfPoly/bin/Debug/netcoreapp3.1/ImplementationOfPoly.deps.json
+/home/awo/Clones/moderncsharp/ImplementationOfPoly/bin/Debug/netcoreapp3.1/ImplementationOfPoly.runtimeconfig.json
+/home/awo/Clones/moderncsharp/ImplementationOfPoly/bin/Debug/netcoreapp3.1/ImplementationOfPoly.runtimeconfig.dev.json
+/home/awo/Clones/moderncsharp/ImplementationOfPoly/bin/Debug/netcoreapp3.1/ImplementationOfPoly.dll
+/home/awo/Clones/moderncsharp/ImplementationOfPoly/bin/Debug/netcoreapp3.1/ImplementationOfPoly.pdb
+/home/awo/Clones/moderncsharp/ImplementationOfPoly/obj/Debug/netcoreapp3.1/ImplementationOfPoly.dll
+/home/awo/Clones/moderncsharp/ImplementationOfPoly/obj/Debug/netcoreapp3.1/ImplementationOfPoly.pdb
+/home/awo/Clones/moderncsharp/ImplementationOfPoly/obj/Debug/netcoreapp3.1/ImplementationOfPoly.genruntimeconfig.cache

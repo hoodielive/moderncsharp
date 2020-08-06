@@ -7,7 +7,8 @@ namespace ImplementationOfPoly
         static void Main(string[] args)
         {
             Ogun godofWar = new Ogun();
-            godofWar.Name();
+            godofWar.OrishaName = "Ogun";
+            godofWar.Qualities();
         }
     }
 }

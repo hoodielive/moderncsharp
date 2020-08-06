@@ -1,6 +1,10 @@
+using System;
 public class Ogun : Orisha
 {
-	public override string Name()
+	new public void Qualities() {
+		 Console.WriteLine(Name());
+	}
+	protected override string Name()
 	{
 		return $"The name of the Orisha is {OrishaName}";
 	}
