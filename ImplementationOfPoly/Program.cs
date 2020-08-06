@@ -9,6 +9,7 @@ namespace ImplementationOfPoly
             Ogun godofWar = new Ogun();
             godofWar.OrishaName = "Ogun";
             godofWar.Qualities();
+            godofWar.Qualities();
         }
     }
 }

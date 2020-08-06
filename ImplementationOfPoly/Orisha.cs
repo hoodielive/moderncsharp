@@ -3,6 +3,7 @@ using System;
 public abstract class Orisha
 {
 	private string _name; 
+	private string _namenum; 
 	private string _ebo; 
 	private string _ase; 
 	private string _awo; 
@@ -13,6 +14,17 @@ public abstract class Orisha
 		get
 		{
 			return $"{_name}";
+		}
+
+		set {
+			this._name = value; 
+		}
+	}
+	public string OrishaNameNum 
+	{
+		get
+		{
+			return $"{_namenum}";
 		}
 
 		set {
@@ -56,12 +68,14 @@ public abstract class Orisha
 	public void Qualities()
 	{
 		this.Name();
+		this.Name();
 		this.Ebo();
 		this.Ase();
 		this.Awo();
 	}
 
 	protected abstract string Name(); 
+	protected abstract int Name(int howMany); 
 	protected abstract string Ebo(); 
 	protected abstract string Ase(); 
 	protected abstract string Awo(); 
