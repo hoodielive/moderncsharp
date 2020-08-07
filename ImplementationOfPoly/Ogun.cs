@@ -1,28 +1,25 @@
 using System;
-public class Ogun : Orisha
+public class Ogun : Orisha, IDeterminant
 {
-	new public void Qualities() {
-		 Console.WriteLine(Name());
-		 Console.WriteLine(Name(11));
-	}
-	protected override string Name()
+	new public void Qualities() 
 	{
-		return $"The name of the Orisha is {OrishaName}";
+		Console.WriteLine(Name(11));
+		Console.WriteLine(Name(11.32));
 	}
-	protected override int Name(int num)
+	protected override string Name() => $"The name of the Orisha is {OrishaName}";
+	protected override int Name(int num) => (num);
+	protected override double Name(double num) => (num);
+	protected override string Ebo() => $"The name of the Orisha Ebo is {OrishaEbo}";
+	protected override string Ase() => $"The name of the Orisha Ase is {OrishaAse}";
+	protected override string Awo() => $"The name of the Orisha Awo is {OrishaAwo}";
+
+	public void Ire()
 	{
-		return(num);
+		Console.Write("Ogun comes with the removal of all obstacles internal and external.");
 	}
-	protected override string Ebo()
+	public void Ibi()
 	{
-		return $"The name of the Orisha Ebo is {OrishaEbo}";
+		Console.Write("Ogun comes for the head of those that do evil and that do not live in balance.");
 	}
-	protected override string Ase()
-	{
-		return $"The name of the Orisha Ase is {OrishaAse}";
-	}
-	protected override string Awo()
-	{
-		return $"The name of the Orisha Awo is {OrishaAwo}";
-	}
+	
 }

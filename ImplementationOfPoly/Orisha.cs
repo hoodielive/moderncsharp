@@ -1,9 +1,10 @@
 using System; 
+using System.Collections; 
+using System.Collections.Generic; 
 
 public abstract class Orisha
 {
 	private string _name; 
-	private string _namenum; 
 	private string _ebo; 
 	private string _ase; 
 	private string _awo; 
@@ -20,18 +21,6 @@ public abstract class Orisha
 			this._name = value; 
 		}
 	}
-	public string OrishaNameNum 
-	{
-		get
-		{
-			return $"{_namenum}";
-		}
-
-		set {
-			this._name = value; 
-		}
-	}
-
 	public string OrishaEbo
 	{
 		get
@@ -76,7 +65,9 @@ public abstract class Orisha
 
 	protected abstract string Name(); 
 	protected abstract int Name(int howMany); 
+	protected abstract double Name(double howMany); 
 	protected abstract string Ebo(); 
+	// protected abstract List<string> Ebo(string first); 
 	protected abstract string Ase(); 
 	protected abstract string Awo(); 
 
