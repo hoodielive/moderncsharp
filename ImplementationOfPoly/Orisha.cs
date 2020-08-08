@@ -66,7 +66,7 @@ public abstract class Orisha
 	protected abstract int Name(int howMany); 
 	protected abstract double Name(double howMany); 
 	protected abstract string Ebo(); 
-	protected abstract List<string> Ebo(string first); 
+	protected abstract List<string> Ebo(List<string> first); 
 	protected abstract string Ase(); 
 	protected abstract string Awo(); 
 
