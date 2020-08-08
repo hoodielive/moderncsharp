@@ -1,0 +1,26 @@
+using System; 
+
+class Stack
+{
+    private Object[] array;
+    private int _currentIndex;
+
+    public Stack(int size)
+    {
+        array = new Object[size];
+        _currentIndex = 0; 
+    }
+
+    public void Push(Object item)
+    {
+        array[_currentIndex] = item;
+        _currentIndex++;
+    }
+
+    public Object Pop()
+    {
+        _currentIndex--;
+        return array[_currentIndex];
+    }
+
+}

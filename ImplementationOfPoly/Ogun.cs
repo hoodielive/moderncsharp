@@ -8,7 +8,7 @@ public class Ogun : Orisha, IDeterminant
 		List<string> first = new List<string>(){}; 
 		first.Add("Africa");
 		first.Add("America");
-
+		Console.WriteLine(Ebo(first));
 		Console.WriteLine(Name(11));
 		Console.WriteLine(Name(11.32));
 		Console.WriteLine(HowManyIngredients(4));
@@ -17,9 +17,13 @@ public class Ogun : Orisha, IDeterminant
 	protected override int Name(int num) => (num);
 	protected override double Name(double num) => (num);
 	protected override string Ebo() => $"The name of the Orisha Ebo is {OrishaEbo}";
-	protected override List<string> Ebo(List<string> first) 
+	protected override List<string> Ebo(List<string> param) 
 	{
-		return first;
+		foreach(var i in param)
+		{
+			Console.WriteLine(i.ToString() + " ");
+		}
+		return param;
 	}
 	protected override string Ase() => $"The name of the Orisha Ase is {OrishaAse}";
 	protected override string Awo() => $"The name of the Orisha Awo is {OrishaAwo}";
@@ -32,7 +36,6 @@ public class Ogun : Orisha, IDeterminant
 	{
 		Console.Write("Ogun comes for the head of those that do evil and that do not live in balance.\n");
 	}
-
 	public int HowManyIngredients(int GenericInteger)
 	{
 		return GenericInteger;
