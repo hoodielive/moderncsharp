@@ -34,6 +34,8 @@ namespace ImplementationOfPoly
 
             positSwap.RevealSwap();
 
+            ClassOnArrays arrayClarity = new ClassOnArrays();
+            arrayClarity.Aris();
         }
     }
 }

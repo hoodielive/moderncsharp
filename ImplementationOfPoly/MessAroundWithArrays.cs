@@ -20,19 +20,8 @@ namespace ImplementationOfPoly
             jaggedArray[1] = new int[] { 1, 2, 3, 4, 5 };
             jaggedArray[2] = new int[] { 2, 4, 6, 12, 423, 23, 4123, 23 };
 
+            Console.WriteLine(jaggedArray);
+
         }
 
-        enum Days { Mon, Tue, Wed, Thurs, Fri, Sat, Sun };
-
-        Days today = Days.Mon;
-
-        if (today == Days.Mon)
-        {
-            Console.WriteLine("Hey its Monday~!");
-        }
-
-        foreach (string s in Enum.GetNames(typeof(Days))) 
-        {
-            Console.WriteLine(s);
-        }
 }
