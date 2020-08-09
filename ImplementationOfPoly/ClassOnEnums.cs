@@ -4,6 +4,9 @@ using System.Collections.Generic;
 
 public class ClassOnEnums
 {
+    const string CONSTANT_NAME = "company";
+    readonly string ConstantName = "company";
+
     enum Days { Mon, Tue, Wed, Thurs, Fri, Sat, Sun }
 
     Days today = Days.Thurs;

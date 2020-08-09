@@ -18,7 +18,6 @@ namespace ImplementationOfPoly
             Stack<string> stack = new Stack<string>(10);
 
             string myString;
-            int myInteger;
 
             stack.Push("aeon");
             stack.Push("aethyr");
@@ -39,6 +38,24 @@ namespace ImplementationOfPoly
 
             ClassOnEnums enumsClarity = new ClassOnEnums();
             enumsClarity.EnumArson(); 
+
+            PlayClass playClass1 = new PlayClass();
+
+            string ancillary = "Otura ";
+            playClass1.SetMessage(ref ancillary);
+            Console.WriteLine(ancillary);
+
+            PlayClass playClass2 = new PlayClass();
+            
+            string genreEx = "Oyeku ";
+            playClass2.SetOsana(out genreEx);
+            Console.WriteLine(genreEx);
+
+            PlayClass playClass3 = new PlayClass();
+
+            playClass3.SetParams("Hello", "Goodbye", "Talk to you later", "Whats up", "Yo");
+
+            StaticMembers.StaticMemberia();
         }
     }
 }
