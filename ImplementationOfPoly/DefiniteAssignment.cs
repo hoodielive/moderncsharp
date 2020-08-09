@@ -19,5 +19,6 @@ public class ExploreDefiniteAssignment
         int i = 0; 
 
         bool isOn = i == 0 ? true : false; 
+        Console.WriteLine(isOn);
     }
 }
