@@ -12,9 +12,9 @@ public class ClassOnArrays
     // Jagged Arrays.
 
     int[][] jaggedArray = new int[3][];
-    jaggedArray[0] = new int[] { 1, 2, 4, 6, 8, 9 };
-    jaggedArray[1] = new int[] { 1, 2, 3, 4, 5 };
-    jaggedArray[2] = new int[] { 2, 4, 6, 12, 423, 23, 4123, 23 };
+    // jaggedArray[0] = new int[] { 1, 2, 4, 6, 8, 9 };
+    // jaggedArray[1] = new int[] { 1, 2, 3, 4, 5 };
+    // jaggedArray[2] = new int[] { 2, 4, 6, 12, 423, 23, 4123, 23 };
 
 
     enum Days { Mon, Tue, Wed, Thurs, Fri, Sat, Sun };
@@ -26,4 +26,7 @@ public class ClassOnArrays
         Console.WriteLine("Hey its Monday~!");
     }
 
-}
+    foreach (string s in Enum.GetNames(typeof(Days))) 
+    {
+        Console.WriteLine(s);
+    }
