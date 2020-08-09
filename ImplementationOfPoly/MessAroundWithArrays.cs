@@ -20,8 +20,20 @@ namespace ImplementationOfPoly
             jaggedArray[1] = new int[] { 1, 2, 3, 4, 5 };
             jaggedArray[2] = new int[] { 2, 4, 6, 12, 423, 23, 4123, 23 };
 
-            Console.WriteLine(jaggedArray);
+            foreach (int[] i in jaggedArray)
+            {
+                if (i != null)
+                {
+                    Console.WriteLine("Array with {0} elements", i.Length);
+
+                    foreach (int n in i)
+                        Console.WriteLine(" {0}", n);
+                }
+                else
+                    Console.WriteLine("Found null array");
+
+            }
 
         }
-
+    }
 }
