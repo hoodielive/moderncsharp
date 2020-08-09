@@ -15,5 +15,9 @@ public class ExploreDefiniteAssignment
 
         Console.WriteLine(number);
         Console.WriteLine(numbers);
+
+        int i = 0; 
+
+        bool isOn = i == 0 ? true : false; 
     }
 }
