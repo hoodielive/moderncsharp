@@ -16,6 +16,6 @@ public class PlayClass
     }
     public void SetParams(params string[] genre)
     {
-
+        Console.WriteLine(genre);
     }
 }

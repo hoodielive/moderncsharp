@@ -16,11 +16,22 @@ public class Construction
         this.title = title;
 
     }
+
+    public void SetMessage(string name)
+    {
+        name = bodyoftext;
+        Console.WriteLine($"Hello from {name}");
+    }
 }
 
 public class PostIt : Construction
 {
     public PostIt() {}
+    private static void SetMessage(Construction construct)
+    {
+        construct.SetMessage("Sweet Poly.");
+        Console.WriteLine(construct);
+    }
 }
 
 

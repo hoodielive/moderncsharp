@@ -58,6 +58,10 @@ namespace ImplementationOfPoly
             StaticMembers.StaticMemberia();
 
             Construction constructorStuff = new Construction();
+
+            Construction constructor2 = constructorStuff; // Upcast Implicit cast
+            Construction constructor3 = constructor2 as Construction; // Downcast Explict cast
+
         }
     }
 }
