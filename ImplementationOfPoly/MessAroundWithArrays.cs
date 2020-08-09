@@ -19,5 +19,11 @@ public class ClassOnArrays
 
     enum Days { Mon, Tue, Wed, Thurs, Fri, Sat, Sun };
 
-    
+    Days today = Days.Mon;
+
+    if (today == Days.Mon)
+    {
+        Console.WriteLine("Hey its Monday~!");
+    }
+
 }
