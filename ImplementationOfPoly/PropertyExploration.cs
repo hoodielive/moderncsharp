@@ -29,6 +29,16 @@ public class PropertyAccessorExploration
             bodyOfText = bodyOfText.Substring(0, value);
         }
     }
+    public char this[int index]
+    {
+        get { return bodyOfText[index]; }
+        set { 
+            char[] bodyTemp = bodyOfText.ToCharArray();
+            bodyTemp[index] = value; 
+            bodyOfText = new string(bodyTemp);
+        }
+    }
+
     public void Body()
     {
 
