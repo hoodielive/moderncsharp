@@ -36,6 +36,9 @@ namespace ImplementationOfPoly
 
             ClassOnArrays arrayClarity = new ClassOnArrays();
             arrayClarity.Aris();
+
+            ClassOnEnums enumsClarity = new ClassOnEnums();
+            enumsClarity.EnumArson(); 
         }
     }
 }
