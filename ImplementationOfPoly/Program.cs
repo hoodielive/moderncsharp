@@ -56,6 +56,8 @@ namespace ImplementationOfPoly
             playClass3.SetParams("Hello", "Goodbye", "Talk to you later", "Whats up", "Yo");
 
             StaticMembers.StaticMemberia();
+
+            Construction constructorStuff = new Construction();
         }
     }
 }
