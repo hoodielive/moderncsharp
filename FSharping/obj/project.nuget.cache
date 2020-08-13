@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "R1Qm41KNKxbvw9lJ+L+Sl2COqXMUY+5P2Iy4XKYCg2kD+mBd2XDMHG7yR/dOUo+LKOTZpELGz7stLB60aPYYzQ==",
+  "success": true,
+  "projectFilePath": "/home/awo/Clones/moderncsharp/FSharping/FSharping.fsproj",
+  "expectedPackageFiles": [
+    "/home/awo/.nuget/packages/fsharp.core/4.7.2/fsharp.core.4.7.2.nupkg.sha512"
+  ],
+  "logs": []
+}
