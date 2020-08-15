@@ -61,7 +61,6 @@ namespace ImplementationOfPoly
 
             Construction constructor2 = constructorStuff; // Upcast Implicit cast
             Construction constructor3 = constructor2 as Construction; // Downcast Explict cast
-
         }
     }
 }
