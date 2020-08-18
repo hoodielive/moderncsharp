@@ -1,0 +1,13 @@
+/home/awo/Clones/moderncsharp/Jujitsu/bin/Debug/netcoreapp3.1/Jujitsu
+/home/awo/Clones/moderncsharp/Jujitsu/bin/Debug/netcoreapp3.1/Jujitsu.deps.json
+/home/awo/Clones/moderncsharp/Jujitsu/bin/Debug/netcoreapp3.1/Jujitsu.runtimeconfig.json
+/home/awo/Clones/moderncsharp/Jujitsu/bin/Debug/netcoreapp3.1/Jujitsu.runtimeconfig.dev.json
+/home/awo/Clones/moderncsharp/Jujitsu/bin/Debug/netcoreapp3.1/Jujitsu.dll
+/home/awo/Clones/moderncsharp/Jujitsu/bin/Debug/netcoreapp3.1/Jujitsu.pdb
+/home/awo/Clones/moderncsharp/Jujitsu/obj/Debug/netcoreapp3.1/Jujitsu.csprojAssemblyReference.cache
+/home/awo/Clones/moderncsharp/Jujitsu/obj/Debug/netcoreapp3.1/Jujitsu.AssemblyInfoInputs.cache
+/home/awo/Clones/moderncsharp/Jujitsu/obj/Debug/netcoreapp3.1/Jujitsu.AssemblyInfo.cs
+/home/awo/Clones/moderncsharp/Jujitsu/obj/Debug/netcoreapp3.1/Jujitsu.csproj.CoreCompileInputs.cache
+/home/awo/Clones/moderncsharp/Jujitsu/obj/Debug/netcoreapp3.1/Jujitsu.dll
+/home/awo/Clones/moderncsharp/Jujitsu/obj/Debug/netcoreapp3.1/Jujitsu.pdb
+/home/awo/Clones/moderncsharp/Jujitsu/obj/Debug/netcoreapp3.1/Jujitsu.genruntimeconfig.cache
