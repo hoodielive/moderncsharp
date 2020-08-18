@@ -1,21 +1,15 @@
 using System;
 
+// public enum Rank { _purple = JujitsuRanks.Purple, _black = JujitsuRanks.Black, _brown = JujitsuRanks.Brown }
+
 public class JujitsuRanks
 {
-    // accessor -> type -> name 
     private string _name;
     private string _age;
-
     private string _black;
     private string _brown;
     private string _purple;
-
-    private string _rank { get; set; }
-
     private string _gender;
-
-    public enum Rank { _purple, _black, _brown }
-
 
     #region 
     public string Name
@@ -91,7 +85,6 @@ public class JujitsuRanks
     }
 
     #endregion
-    // Create Method the will obtain information from User.
 
     public string GetUserName()
     {
@@ -109,40 +102,32 @@ public class JujitsuRanks
         return this._age;
     }
 
-    public void GetUserRank(Rank myRank)
+    public string GetUserRank()
     {
-
+				string myRank;
         Console.WriteLine("What is your rank Color homie? ");
-        string rankColor = Console.ReadLine();
+				myRank = Console.ReadLine();
 
-        if (rankColor == "black")
-        {
-            myRank = Rank._black;
-        }
-        else if (rankColor == "brown")
-        {
-            myRank = Rank._brown;
-        }
-        else if (rankColor == "purple")
-        {
-            myRank = Rank._purple;
-        }
+				string ReturnRankColor()
+				{
+					 IfBlack(this.Black); 
+					 IfBrown(this.Brown); 
+					 IfPurple(this.Purple); 
+				}
 
+				string IfBlack(string black)
+				{
+					return $"Your Rank is {this.Black}";
+				}
+				string IfBrown(string brown)
+				{
+					return $"Your Rank is {this.Brown}";
+				}
+				string IfPurple(string purple)
+				{
+					return $"Your Rank is {this.Purple}";
+				}
 
-        switch(rankColor)
-        {
-            case Rank._brown:
-                Console.WriteLine($"Your rank is {this.Brown}.");
-                break;
-            case Rank._black:
-                Console.WriteLine($"Your rank is {this.Black}");
-                break;
-            case Rank._purple:
-                Console.WriteLine($"Your rank is {this.Purple}");
-                break;
-            default: 
-                Console.WriteLine("I have no idea what you are looking for.");
-                break;
-        }
     }
 }
+
