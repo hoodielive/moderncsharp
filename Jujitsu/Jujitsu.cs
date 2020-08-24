@@ -1,6 +1,5 @@
 using System;
 
-// public enum Rank { _purple = JujitsuRanks.Purple, _black = JujitsuRanks.Black, _brown = JujitsuRanks.Brown }
 
 public class JujitsuRanks
 {

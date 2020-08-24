@@ -1,0 +1,4 @@
+/home/awo/Clones/moderncsharp/Functional/obj/Debug/netcoreapp3.1/Functional.csprojAssemblyReference.cache
+/home/awo/Clones/moderncsharp/Functional/obj/Debug/netcoreapp3.1/Functional.AssemblyInfoInputs.cache
+/home/awo/Clones/moderncsharp/Functional/obj/Debug/netcoreapp3.1/Functional.AssemblyInfo.cs
+/home/awo/Clones/moderncsharp/Functional/obj/Debug/netcoreapp3.1/Functional.csproj.CoreCompileInputs.cache
