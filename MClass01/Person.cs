@@ -6,6 +6,4 @@ public struct Person
 	public string Age;
 	public string Location;
 	public string Career;
-
-	
 }
