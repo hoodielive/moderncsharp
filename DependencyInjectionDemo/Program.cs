@@ -6,7 +6,9 @@ namespace DependencyInjectionDemo
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            BusinessLogic businessLogic = new BusinessLogic();
+            businessLogic.ProcessData(); 
+
         }
     }
 }
