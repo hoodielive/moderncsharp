@@ -16,26 +16,26 @@ public class Dumpster
         }
     }
 
-    public void Process()
+    public void Process(IList items)
     {
         foreach (var item in Items)
         {
             if (item is Trash)
             {
-                SmartIncinerator.Burn((Trash)item);
+                Waste.Add(item);
 
             }
             else if (item is Bottle)
             {
-                Melter.MakeFidgetSpinner((Bottle)item);
+                Bottles.Add(item);
             }
             else if (item is Soda)
             {
-                Sponge.SoakUp((Soda)item);
+                Bottles.Add(item);
             }
             else if (item is Food)
             {
-                Composter.GrowKale((Food)item);
+                Foods.Add(item);
             }
         }
     }
