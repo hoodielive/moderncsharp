@@ -1,6 +1,7 @@
 using System;
 using System.Collections;
 using System.Collections.Generic; 
+
 public class Ogun : Orisha, IDeterminant
 {
 	new public void Qualities() 
