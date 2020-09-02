@@ -23,7 +23,6 @@ public class Dumpster
             if (item is Trash)
             {
                 Waste.Add(item);
-
             }
             else if (item is Bottle)
             {

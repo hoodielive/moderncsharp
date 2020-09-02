@@ -1,0 +1,13 @@
+/home/awo/Clones/moderncsharp/Generica02/obj/Debug/netcoreapp3.1/Generica02.csprojAssemblyReference.cache
+/home/awo/Clones/moderncsharp/Generica02/obj/Debug/netcoreapp3.1/Generica02.AssemblyInfoInputs.cache
+/home/awo/Clones/moderncsharp/Generica02/obj/Debug/netcoreapp3.1/Generica02.AssemblyInfo.cs
+/home/awo/Clones/moderncsharp/Generica02/obj/Debug/netcoreapp3.1/Generica02.csproj.CoreCompileInputs.cache
+/home/awo/Clones/moderncsharp/Generica02/bin/Debug/netcoreapp3.1/Generica02
+/home/awo/Clones/moderncsharp/Generica02/bin/Debug/netcoreapp3.1/Generica02.deps.json
+/home/awo/Clones/moderncsharp/Generica02/bin/Debug/netcoreapp3.1/Generica02.runtimeconfig.json
+/home/awo/Clones/moderncsharp/Generica02/bin/Debug/netcoreapp3.1/Generica02.runtimeconfig.dev.json
+/home/awo/Clones/moderncsharp/Generica02/bin/Debug/netcoreapp3.1/Generica02.dll
+/home/awo/Clones/moderncsharp/Generica02/bin/Debug/netcoreapp3.1/Generica02.pdb
+/home/awo/Clones/moderncsharp/Generica02/obj/Debug/netcoreapp3.1/Generica02.dll
+/home/awo/Clones/moderncsharp/Generica02/obj/Debug/netcoreapp3.1/Generica02.pdb
+/home/awo/Clones/moderncsharp/Generica02/obj/Debug/netcoreapp3.1/Generica02.genruntimeconfig.cache
