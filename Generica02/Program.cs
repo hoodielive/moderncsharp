@@ -10,7 +10,7 @@ namespace Generica02
         {
             GenericList<float> listerine = new GenericList<float>();
             listerine.AddHead(3.0f);
-            Console.WriteLine(listerine);
+            Console.WriteLine(listerine.AddHead(9.0f));
         }
     }
 }
