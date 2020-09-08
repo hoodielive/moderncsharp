@@ -14,11 +14,11 @@ public class Person
 	public string LastName { get; }
 	public string Age { get; }
 
+	private static readonly List<Person> People = new List<Person>(new[])	
+	{
+		new Person(id: 1, firstName: "John", lastName: "Doe", age: 26),
+		new Person(id: 2, firstName: "Jane", lastName: "Doe", age: 18)
+	}
 
 }
-						#region People
-						private static readonly List<Person> People = new List<Person>(new[])	
-						{
-							new Person(id: 1, firstName: "John", lastName: "Doe", age: 26),
-							new Person(id: 2, firstName: "Jane", lastName: "Doe", age: 18)
-						}
+	#region People
