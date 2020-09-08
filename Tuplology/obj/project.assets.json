@@ -1,35 +1,35 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.1": {}
+    ".NETCoreApp,Version=v3.0": {}
   },
   "libraries": {},
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.1": []
+    ".NETCoreApp,Version=v3.0": []
   },
   "packageFolders": {
-    "/home/awo/.nuget/packages/": {}
+    "/home/asiri/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/awo/Clones/moderncsharp/Tuplology/Tuplology.csproj",
+      "projectUniqueName": "/home/asiri/Clones/moderncsharp/Tuplology/Tuplology.csproj",
       "projectName": "Tuplology",
-      "projectPath": "/home/awo/Clones/moderncsharp/Tuplology/Tuplology.csproj",
-      "packagesPath": "/home/awo/.nuget/packages/",
-      "outputPath": "/home/awo/Clones/moderncsharp/Tuplology/obj/",
+      "projectPath": "/home/asiri/Clones/moderncsharp/Tuplology/Tuplology.csproj",
+      "packagesPath": "/home/asiri/.nuget/packages/",
+      "outputPath": "/home/asiri/Clones/moderncsharp/Tuplology/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/awo/.nuget/NuGet/NuGet.Config"
+        "/home/asiri/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
-        "netcoreapp3.1"
+        "netcoreapp3.0"
       ],
       "sources": {
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "netcoreapp3.1": {
+        "netcoreapp3.0": {
           "projectReferences": {}
         }
       },
@@ -40,7 +40,7 @@
       }
     },
     "frameworks": {
-      "netcoreapp3.1": {
+      "netcoreapp3.0": {
         "imports": [
           "net461",
           "net462",
@@ -51,12 +51,18 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[3.0.0, 3.0.0]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.302/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.0.102/RuntimeIdentifierGraph.json"
       }
     }
   }

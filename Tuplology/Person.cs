@@ -4,6 +4,10 @@ using System.Collections.Generic;
 						
 public class Person
 {
+	public void Main(string[] args)
+	{
+		GuitarType();	
+	}
 	public Person(string firstName, string lastName, int age)
 	{
 		FirstName = firstName;
@@ -18,6 +22,11 @@ public class Person
 	{
 		new Person(id: 1, firstName: "John", lastName: "Doe", age: 26),
 		new Person(id: 2, firstName: "Jane", lastName: "Doe", age: 18)
+	}
+
+	public (string, int) GuitarType()
+	{
+		return ("Do you understand", 50);
 	}
 
 }
