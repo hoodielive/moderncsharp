@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Diagnostics;
 
 namespace NewFeatures
 {
@@ -22,6 +23,9 @@ namespace NewFeatures
             (string Firsty, string Lasty) newTuple = te.OpenPositionApp();
             Console.WriteLine(newPosition.firstName, newPosition.lastName);
             Console.WriteLine(newTuple.Firsty, newTuple.Lasty);
+
+			var (BrandType, Music) = te.OpenPositionApp();
+			Console.WriteLine(Music);
         }
     }
 }
