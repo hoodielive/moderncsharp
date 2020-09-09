@@ -6,12 +6,22 @@ namespace NewFeatures
     {
         static void Main(string[] args)
         {
+			// Create object.
+
 			TupleExample te = new TupleExample(); 
+
+			// Implicit Variable. 
+
 			var guitarResult = te.GetGuitarType();
 
-			Debug.WriteLine(guitarResult.Item1);
-			Debug.WriteLine(guitarResult.Item2);
-            
+			Console.WriteLine(guitarResult.Item1);
+			Console.WriteLine(guitarResult.Item2);
+            Console.WriteLine(guitarResult.Item3);
+
+            var newPosition = te.OpenPositionApp();
+            (string Firsty, string Lasty) newTuple = te.OpenPositionApp();
+            Console.WriteLine(newPosition.firstName, newPosition.lastName);
+            Console.WriteLine(newTuple.Firsty, newTuple.Lasty);
         }
     }
 }
