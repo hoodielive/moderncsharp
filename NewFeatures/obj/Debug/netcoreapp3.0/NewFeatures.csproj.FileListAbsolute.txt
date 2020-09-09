@@ -1,0 +1,3 @@
+/home/asiri/Clones/moderncsharp/NewFeatures/obj/Debug/netcoreapp3.0/NewFeatures.csprojAssemblyReference.cache
+/home/asiri/Clones/moderncsharp/NewFeatures/obj/Debug/netcoreapp3.0/NewFeatures.AssemblyInfoInputs.cache
+/home/asiri/Clones/moderncsharp/NewFeatures/obj/Debug/netcoreapp3.0/NewFeatures.AssemblyInfo.cs
