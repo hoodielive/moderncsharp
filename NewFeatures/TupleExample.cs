@@ -1,4 +1,5 @@
 using System;
+using System.Diagnostics;
 
 public class TupleExample 
 {
@@ -10,5 +11,10 @@ public class TupleExample
 	public (string firstName, string lastName) OpenPositionApp()
 	{
 		return ("True", "blood");
+	}
+
+	public void PlayInstrument((string, int) instrumentToPlay)
+	{
+		Debug.WriteLine($"I am playing {instrumentToPlay.Item1} with {instrumentToPlay.Item2} strings");
 	}
 }

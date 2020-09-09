@@ -26,6 +26,13 @@ namespace NewFeatures
 
 			var (BrandType, Music) = te.OpenPositionApp();
 			Console.WriteLine(Music);
+
+            TupleExample tryMe = new TupleExample();
+            string instrumentType = nameof(InstrumentType.guitar);
+            int strings = 12; 
+
+            (string TypeOfInstrument, int NumberOfStrings) instrument = (instrumentType, strings);
+            tryMe.PlayInstrument(instrument);
         }
     }
 }
