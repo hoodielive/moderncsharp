@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/asiri/Clones/moderncsharp/Tuplology/Tuplology.csproj",
-      "projectName": "Tuplology",
-      "projectPath": "/home/asiri/Clones/moderncsharp/Tuplology/Tuplology.csproj",
+      "projectUniqueName": "/home/asiri/Clones/moderncsharp/NewFeatures/NewFeatures.csproj",
+      "projectName": "NewFeatures",
+      "projectPath": "/home/asiri/Clones/moderncsharp/NewFeatures/NewFeatures.csproj",
       "packagesPath": "/home/asiri/.nuget/packages/",
-      "outputPath": "/home/asiri/Clones/moderncsharp/Tuplology/obj/",
+      "outputPath": "/home/asiri/Clones/moderncsharp/NewFeatures/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/asiri/.nuget/NuGet/NuGet.Config"

@@ -1,0 +1,11 @@
+/home/asiri/Clones/moderncsharp/NewFeatures/obj/Debug/netcoreapp3.0/NewFeatures.csprojAssemblyReference.cache
+/home/asiri/Clones/moderncsharp/NewFeatures/obj/Debug/netcoreapp3.0/NewFeatures.AssemblyInfoInputs.cache
+/home/asiri/Clones/moderncsharp/NewFeatures/obj/Debug/netcoreapp3.0/NewFeatures.AssemblyInfo.cs
+/home/asiri/Clones/moderncsharp/NewFeatures/bin/Debug/netcoreapp3.0/NewFeatures
+/home/asiri/Clones/moderncsharp/NewFeatures/bin/Debug/netcoreapp3.0/NewFeatures.deps.json
+/home/asiri/Clones/moderncsharp/NewFeatures/bin/Debug/netcoreapp3.0/NewFeatures.runtimeconfig.json
+/home/asiri/Clones/moderncsharp/NewFeatures/bin/Debug/netcoreapp3.0/NewFeatures.runtimeconfig.dev.json
+/home/asiri/Clones/moderncsharp/NewFeatures/bin/Debug/netcoreapp3.0/NewFeatures.dll
+/home/asiri/Clones/moderncsharp/NewFeatures/bin/Debug/netcoreapp3.0/NewFeatures.pdb
+/home/asiri/Clones/moderncsharp/NewFeatures/obj/Debug/netcoreapp3.0/NewFeatures.dll
+/home/asiri/Clones/moderncsharp/NewFeatures/obj/Debug/netcoreapp3.0/NewFeatures.pdb
