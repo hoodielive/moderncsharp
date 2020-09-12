@@ -6,7 +6,19 @@ namespace Continue
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            string[] names = new string[]
+            {
+                "Apo", 
+                "Osa",
+                "Pluto",
+                "Keshet"
+            };
+
+            Person osameji = new Person();
+            osameji.Firstname = names[2];
+
+            osameji.sayHello();
+
         }
     }
 }
