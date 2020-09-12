@@ -1,0 +1,13 @@
+/home/awo/Clones/moderncsharp/Continue/bin/Debug/netcoreapp3.1/Continue
+/home/awo/Clones/moderncsharp/Continue/bin/Debug/netcoreapp3.1/Continue.deps.json
+/home/awo/Clones/moderncsharp/Continue/bin/Debug/netcoreapp3.1/Continue.runtimeconfig.json
+/home/awo/Clones/moderncsharp/Continue/bin/Debug/netcoreapp3.1/Continue.runtimeconfig.dev.json
+/home/awo/Clones/moderncsharp/Continue/bin/Debug/netcoreapp3.1/Continue.dll
+/home/awo/Clones/moderncsharp/Continue/bin/Debug/netcoreapp3.1/Continue.pdb
+/home/awo/Clones/moderncsharp/Continue/obj/Debug/netcoreapp3.1/Continue.csprojAssemblyReference.cache
+/home/awo/Clones/moderncsharp/Continue/obj/Debug/netcoreapp3.1/Continue.AssemblyInfoInputs.cache
+/home/awo/Clones/moderncsharp/Continue/obj/Debug/netcoreapp3.1/Continue.AssemblyInfo.cs
+/home/awo/Clones/moderncsharp/Continue/obj/Debug/netcoreapp3.1/Continue.csproj.CoreCompileInputs.cache
+/home/awo/Clones/moderncsharp/Continue/obj/Debug/netcoreapp3.1/Continue.dll
+/home/awo/Clones/moderncsharp/Continue/obj/Debug/netcoreapp3.1/Continue.pdb
+/home/awo/Clones/moderncsharp/Continue/obj/Debug/netcoreapp3.1/Continue.genruntimeconfig.cache

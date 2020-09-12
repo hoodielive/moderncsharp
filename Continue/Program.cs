@@ -18,6 +18,7 @@ namespace Continue
             osameji.Firstname = names[2];
 
             osameji.sayHello();
+            Console.WriteLine(osameji.sayHello());
 
         }
     }
