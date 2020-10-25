@@ -16,6 +16,28 @@ namespace Unity
 							x++;
 						} while (x < 10);
 						Console.WriteLine(x);
+
+						// Method man.
+						string Methos()	
+						{
+							return "No good logic is available.";
+						}
+
+						Console.WriteLine(Methos());
+
+						static void SquareIt(ref int x)
+						{
+							x *= x; 
+							Console.WriteLine($"The value inside the method: {x}");
+						}
+
+						int n = 5;
+						Console.WriteLine($"The value before calling the method: {n}");
+						SquareIt(ref n);
+						Console.WriteLine($"The value after calling the method: {n}");
+
+						Console.WriteLine("Press any key to exit.");
+						Console.ReadKey();
         }
     }
 }
