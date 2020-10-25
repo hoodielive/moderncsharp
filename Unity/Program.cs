@@ -10,6 +10,12 @@ namespace Unity
 
 						foreach (int element in fibarray)
 							Console.WriteLine(element);
+
+						int x = 1;
+						do {
+							x++;
+						} while (x < 10);
+						Console.WriteLine(x);
         }
     }
 }
