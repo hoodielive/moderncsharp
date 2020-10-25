@@ -38,6 +38,33 @@ namespace Unity
 
 						Console.WriteLine("Press any key to exit.");
 						Console.ReadKey();
+
+						static float Add(float x, float y)
+						{
+							return x + y;
+						}
+
+						static float Subtract(float x, float y)
+						{
+							return x - y;
+						}
+
+						static float Divide(float x, float y)
+						{
+								return x / y;
+						}
+						static float Multiply(float x, float y)
+						{
+							return x * y;
+						}
+
+						float r1 = Add(2.0f, 2.0f);
+						float r2 = Subtract(r1, 2.0f);
+						float r3 = Multiply(r2, r1);
+						float r4 = Divide(8.0f, 0.0f);
+
+						string r = string.Format($"r1={r1}; r2={r2}; r3={r3}; r4={r4}");
+						Console.WriteLine(r);
         }
     }
 }
