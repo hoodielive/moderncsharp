@@ -1,0 +1,13 @@
+/home/arjuna/Clones/moderncsharp/Unity/bin/Debug/netcoreapp3.1/Unity
+/home/arjuna/Clones/moderncsharp/Unity/bin/Debug/netcoreapp3.1/Unity.deps.json
+/home/arjuna/Clones/moderncsharp/Unity/bin/Debug/netcoreapp3.1/Unity.runtimeconfig.json
+/home/arjuna/Clones/moderncsharp/Unity/bin/Debug/netcoreapp3.1/Unity.runtimeconfig.dev.json
+/home/arjuna/Clones/moderncsharp/Unity/bin/Debug/netcoreapp3.1/Unity.dll
+/home/arjuna/Clones/moderncsharp/Unity/bin/Debug/netcoreapp3.1/Unity.pdb
+/home/arjuna/Clones/moderncsharp/Unity/obj/Debug/netcoreapp3.1/Unity.csprojAssemblyReference.cache
+/home/arjuna/Clones/moderncsharp/Unity/obj/Debug/netcoreapp3.1/Unity.AssemblyInfoInputs.cache
+/home/arjuna/Clones/moderncsharp/Unity/obj/Debug/netcoreapp3.1/Unity.AssemblyInfo.cs
+/home/arjuna/Clones/moderncsharp/Unity/obj/Debug/netcoreapp3.1/Unity.csproj.CoreCompileInputs.cache
+/home/arjuna/Clones/moderncsharp/Unity/obj/Debug/netcoreapp3.1/Unity.dll
+/home/arjuna/Clones/moderncsharp/Unity/obj/Debug/netcoreapp3.1/Unity.pdb
+/home/arjuna/Clones/moderncsharp/Unity/obj/Debug/netcoreapp3.1/Unity.genruntimeconfig.cache
