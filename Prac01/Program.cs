@@ -6,6 +6,9 @@ namespace Prac01
     {
         static void Main(string[] args)
         {
+					Customer customer1 = new Customer();
+					customer1.name = "Jaackay";
+					Console.WriteLine(customer.ReturnTheProperties);
         }
     }
 }

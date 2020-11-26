@@ -2,18 +2,32 @@ using System;
 
 public class Customer
 {
-	private object syncHandle = new Object();
 	private string name; 
-
 	public string Name 
 	{ 
 		get 
 		{ 
-			lock (syncHandle); return name; 
+			return Name; 
 		} 
-		set {
-			if (string.IsNullOrEmpty(value))
-				throw new ArgumentException ( "Name cannot be blank", nameof(Name));
-	  } 
+		set 
+		{
+			this.name = Name;
+	  }
   }
+
+	public string ReturnTheProperties(string name)
+	{
+		this.Name = name;
+		return name; 
+	}
+
+	public void Nuller()
+	{
+			// 	private object syncHandle = new Object();
+			// lock (syncHandle); 
+			if (string.IsNullOrEmpty(value))
+			{
+				throw new ArgumentException ( "Name cannot be blank", nameof(Name));
+			}
+	}
 }

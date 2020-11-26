@@ -1,0 +1,4 @@
+/home/arjuna/Clones/moderncsharp/Prac01/obj/Debug/netcoreapp3.1/Prac01.csprojAssemblyReference.cache
+/home/arjuna/Clones/moderncsharp/Prac01/obj/Debug/netcoreapp3.1/Prac01.AssemblyInfoInputs.cache
+/home/arjuna/Clones/moderncsharp/Prac01/obj/Debug/netcoreapp3.1/Prac01.AssemblyInfo.cs
+/home/arjuna/Clones/moderncsharp/Prac01/obj/Debug/netcoreapp3.1/Prac01.csproj.CoreCompileInputs.cache
