@@ -1,0 +1,16 @@
+/home/arjuna/Clones/moderncsharp/Undo/bin/Debug/net5.0/Undo
+/home/arjuna/Clones/moderncsharp/Undo/bin/Debug/net5.0/Undo.deps.json
+/home/arjuna/Clones/moderncsharp/Undo/bin/Debug/net5.0/Undo.runtimeconfig.json
+/home/arjuna/Clones/moderncsharp/Undo/bin/Debug/net5.0/Undo.runtimeconfig.dev.json
+/home/arjuna/Clones/moderncsharp/Undo/bin/Debug/net5.0/Undo.dll
+/home/arjuna/Clones/moderncsharp/Undo/bin/Debug/net5.0/ref/Undo.dll
+/home/arjuna/Clones/moderncsharp/Undo/bin/Debug/net5.0/Undo.pdb
+/home/arjuna/Clones/moderncsharp/Undo/obj/Debug/net5.0/Undo.csprojAssemblyReference.cache
+/home/arjuna/Clones/moderncsharp/Undo/obj/Debug/net5.0/Undo.GeneratedMSBuildEditorConfig.editorconfig
+/home/arjuna/Clones/moderncsharp/Undo/obj/Debug/net5.0/Undo.AssemblyInfoInputs.cache
+/home/arjuna/Clones/moderncsharp/Undo/obj/Debug/net5.0/Undo.AssemblyInfo.cs
+/home/arjuna/Clones/moderncsharp/Undo/obj/Debug/net5.0/Undo.csproj.CoreCompileInputs.cache
+/home/arjuna/Clones/moderncsharp/Undo/obj/Debug/net5.0/Undo.dll
+/home/arjuna/Clones/moderncsharp/Undo/obj/Debug/net5.0/ref/Undo.dll
+/home/arjuna/Clones/moderncsharp/Undo/obj/Debug/net5.0/Undo.pdb
+/home/arjuna/Clones/moderncsharp/Undo/obj/Debug/net5.0/Undo.genruntimeconfig.cache
