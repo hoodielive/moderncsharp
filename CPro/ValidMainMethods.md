@@ -41,3 +41,6 @@ readonly System.Char[] s = new System.Char[] { 'a', 'b', 'c' };
 
 - Strings are immutable (readonly).
 - Check with string equality with (==) or the preferred way is string.Equals(s1, s2);
+- @ is the verbatim identifier - since if is a keyword, it can't be used as a keyword, however
+	you can use the verbatim identifier to use it @if.
+- $ specifies that the string should be interpreted $"{str}"
