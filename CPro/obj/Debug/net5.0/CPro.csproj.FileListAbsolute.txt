@@ -1,0 +1,16 @@
+/home/arjuna/Clones/moderncsharp/CPro/bin/Debug/net5.0/CPro
+/home/arjuna/Clones/moderncsharp/CPro/bin/Debug/net5.0/CPro.deps.json
+/home/arjuna/Clones/moderncsharp/CPro/bin/Debug/net5.0/CPro.runtimeconfig.json
+/home/arjuna/Clones/moderncsharp/CPro/bin/Debug/net5.0/CPro.runtimeconfig.dev.json
+/home/arjuna/Clones/moderncsharp/CPro/bin/Debug/net5.0/CPro.dll
+/home/arjuna/Clones/moderncsharp/CPro/bin/Debug/net5.0/ref/CPro.dll
+/home/arjuna/Clones/moderncsharp/CPro/bin/Debug/net5.0/CPro.pdb
+/home/arjuna/Clones/moderncsharp/CPro/obj/Debug/net5.0/CPro.csprojAssemblyReference.cache
+/home/arjuna/Clones/moderncsharp/CPro/obj/Debug/net5.0/CPro.GeneratedMSBuildEditorConfig.editorconfig
+/home/arjuna/Clones/moderncsharp/CPro/obj/Debug/net5.0/CPro.AssemblyInfoInputs.cache
+/home/arjuna/Clones/moderncsharp/CPro/obj/Debug/net5.0/CPro.AssemblyInfo.cs
+/home/arjuna/Clones/moderncsharp/CPro/obj/Debug/net5.0/CPro.csproj.CoreCompileInputs.cache
+/home/arjuna/Clones/moderncsharp/CPro/obj/Debug/net5.0/CPro.dll
+/home/arjuna/Clones/moderncsharp/CPro/obj/Debug/net5.0/ref/CPro.dll
+/home/arjuna/Clones/moderncsharp/CPro/obj/Debug/net5.0/CPro.pdb
+/home/arjuna/Clones/moderncsharp/CPro/obj/Debug/net5.0/CPro.genruntimeconfig.cache
