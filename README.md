@@ -1,2 +1,2 @@
 # Modern C#
-Modern C Sharp Like I need another Repository lol.. sigh.
+This repo construct is a container for my Csharp studies. Nothing more, nothing less.
