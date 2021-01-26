@@ -19,15 +19,17 @@ namespace CPro
                 int x = 3;
                 Console.WriteLine(x);
             }
-
-            StringBuilder sb = new StringBuilder("This is a new string");
-            sb.Replace(" ", _);
-            Console.WriteLine(sb);
+            FileEtc fileEtc = new FileEtc();
+            fileEtc.Consciousness();
             PrintHi();
             SNullColecse();
             CalculateSizeOf();
             GetObjectType();
             HowDoesThatWork();
+
+            // set something to Null {{ object o = null; }}
+            bool? example = null;
+            Console.WriteLine(example);
         }
 
         static void PrintHi()
