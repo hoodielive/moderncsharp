@@ -1,0 +1,5 @@
+/home/arjuna/Clones/moderncsharp/Circe/obj/Debug/net5.0/Circe.csprojAssemblyReference.cache
+/home/arjuna/Clones/moderncsharp/Circe/obj/Debug/net5.0/Circe.GeneratedMSBuildEditorConfig.editorconfig
+/home/arjuna/Clones/moderncsharp/Circe/obj/Debug/net5.0/Circe.AssemblyInfoInputs.cache
+/home/arjuna/Clones/moderncsharp/Circe/obj/Debug/net5.0/Circe.AssemblyInfo.cs
+/home/arjuna/Clones/moderncsharp/Circe/obj/Debug/net5.0/Circe.csproj.CoreCompileInputs.cache

@@ -6,7 +6,10 @@ namespace Circe
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            var person = new Person("Larry", "Blackshear");
+            var student = new Student("Larry", "Howdy");
+
+            Console.WriteLine(student == person); 
         }
     }
 }
