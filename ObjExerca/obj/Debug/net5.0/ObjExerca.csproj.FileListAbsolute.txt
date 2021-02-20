@@ -1,0 +1,16 @@
+/home/arjuna/Clones/moderncsharp/ObjExerca/bin/Debug/net5.0/ObjExerca
+/home/arjuna/Clones/moderncsharp/ObjExerca/bin/Debug/net5.0/ObjExerca.deps.json
+/home/arjuna/Clones/moderncsharp/ObjExerca/bin/Debug/net5.0/ObjExerca.runtimeconfig.json
+/home/arjuna/Clones/moderncsharp/ObjExerca/bin/Debug/net5.0/ObjExerca.runtimeconfig.dev.json
+/home/arjuna/Clones/moderncsharp/ObjExerca/bin/Debug/net5.0/ObjExerca.dll
+/home/arjuna/Clones/moderncsharp/ObjExerca/bin/Debug/net5.0/ref/ObjExerca.dll
+/home/arjuna/Clones/moderncsharp/ObjExerca/bin/Debug/net5.0/ObjExerca.pdb
+/home/arjuna/Clones/moderncsharp/ObjExerca/obj/Debug/net5.0/ObjExerca.csprojAssemblyReference.cache
+/home/arjuna/Clones/moderncsharp/ObjExerca/obj/Debug/net5.0/ObjExerca.GeneratedMSBuildEditorConfig.editorconfig
+/home/arjuna/Clones/moderncsharp/ObjExerca/obj/Debug/net5.0/ObjExerca.AssemblyInfoInputs.cache
+/home/arjuna/Clones/moderncsharp/ObjExerca/obj/Debug/net5.0/ObjExerca.AssemblyInfo.cs
+/home/arjuna/Clones/moderncsharp/ObjExerca/obj/Debug/net5.0/ObjExerca.csproj.CoreCompileInputs.cache
+/home/arjuna/Clones/moderncsharp/ObjExerca/obj/Debug/net5.0/ObjExerca.dll
+/home/arjuna/Clones/moderncsharp/ObjExerca/obj/Debug/net5.0/ref/ObjExerca.dll
+/home/arjuna/Clones/moderncsharp/ObjExerca/obj/Debug/net5.0/ObjExerca.pdb
+/home/arjuna/Clones/moderncsharp/ObjExerca/obj/Debug/net5.0/ObjExerca.genruntimeconfig.cache
