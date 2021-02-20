@@ -11,7 +11,7 @@ namespace UnderstandingRecords
         public string FirstName { get; init; }
         public string LastName { get; init; }
 
-        public Class1(string firstName, string lastName)
+        public Class1(string firstName, string lastName) const
         {
             FirstName = firstName;
             LastName = lastName;
