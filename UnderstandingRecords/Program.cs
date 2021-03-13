@@ -27,6 +27,7 @@ namespace UnderstandingRecords
             Console.WriteLine("**************************");
             Console.WriteLine();
             Console.WriteLine($"Are the two objects equal: { Equals(rla, rlc)}");
+            
         }
     }
 }
