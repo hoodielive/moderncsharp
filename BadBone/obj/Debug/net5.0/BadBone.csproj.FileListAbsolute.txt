@@ -1,0 +1,16 @@
+/home/arjuna/Clones/moderncsharp/BadBone/bin/Debug/net5.0/BadBone
+/home/arjuna/Clones/moderncsharp/BadBone/bin/Debug/net5.0/BadBone.deps.json
+/home/arjuna/Clones/moderncsharp/BadBone/bin/Debug/net5.0/BadBone.runtimeconfig.json
+/home/arjuna/Clones/moderncsharp/BadBone/bin/Debug/net5.0/BadBone.runtimeconfig.dev.json
+/home/arjuna/Clones/moderncsharp/BadBone/bin/Debug/net5.0/BadBone.dll
+/home/arjuna/Clones/moderncsharp/BadBone/bin/Debug/net5.0/ref/BadBone.dll
+/home/arjuna/Clones/moderncsharp/BadBone/bin/Debug/net5.0/BadBone.pdb
+/home/arjuna/Clones/moderncsharp/BadBone/obj/Debug/net5.0/BadBone.csproj.AssemblyReference.cache
+/home/arjuna/Clones/moderncsharp/BadBone/obj/Debug/net5.0/BadBone.GeneratedMSBuildEditorConfig.editorconfig
+/home/arjuna/Clones/moderncsharp/BadBone/obj/Debug/net5.0/BadBone.AssemblyInfoInputs.cache
+/home/arjuna/Clones/moderncsharp/BadBone/obj/Debug/net5.0/BadBone.AssemblyInfo.cs
+/home/arjuna/Clones/moderncsharp/BadBone/obj/Debug/net5.0/BadBone.csproj.CoreCompileInputs.cache
+/home/arjuna/Clones/moderncsharp/BadBone/obj/Debug/net5.0/BadBone.dll
+/home/arjuna/Clones/moderncsharp/BadBone/obj/Debug/net5.0/ref/BadBone.dll
+/home/arjuna/Clones/moderncsharp/BadBone/obj/Debug/net5.0/BadBone.pdb
+/home/arjuna/Clones/moderncsharp/BadBone/obj/Debug/net5.0/BadBone.genruntimeconfig.cache

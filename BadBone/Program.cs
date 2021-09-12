@@ -6,7 +6,8 @@ namespace BadBone
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            var item = someObject["key"];
+            Console.WriteLine("I would be happier if..");
         }
     }
 }
