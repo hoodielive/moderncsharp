@@ -1,0 +1,15 @@
+/home/enilo/Clones/moderncsharp/2022/DontPlayAround/bin/Debug/net6.0/DontPlayAround
+/home/enilo/Clones/moderncsharp/2022/DontPlayAround/bin/Debug/net6.0/DontPlayAround.deps.json
+/home/enilo/Clones/moderncsharp/2022/DontPlayAround/bin/Debug/net6.0/DontPlayAround.runtimeconfig.json
+/home/enilo/Clones/moderncsharp/2022/DontPlayAround/bin/Debug/net6.0/DontPlayAround.dll
+/home/enilo/Clones/moderncsharp/2022/DontPlayAround/bin/Debug/net6.0/ref/DontPlayAround.dll
+/home/enilo/Clones/moderncsharp/2022/DontPlayAround/bin/Debug/net6.0/DontPlayAround.pdb
+/home/enilo/Clones/moderncsharp/2022/DontPlayAround/obj/Debug/net6.0/DontPlayAround.csproj.AssemblyReference.cache
+/home/enilo/Clones/moderncsharp/2022/DontPlayAround/obj/Debug/net6.0/DontPlayAround.GeneratedMSBuildEditorConfig.editorconfig
+/home/enilo/Clones/moderncsharp/2022/DontPlayAround/obj/Debug/net6.0/DontPlayAround.AssemblyInfoInputs.cache
+/home/enilo/Clones/moderncsharp/2022/DontPlayAround/obj/Debug/net6.0/DontPlayAround.AssemblyInfo.cs
+/home/enilo/Clones/moderncsharp/2022/DontPlayAround/obj/Debug/net6.0/DontPlayAround.csproj.CoreCompileInputs.cache
+/home/enilo/Clones/moderncsharp/2022/DontPlayAround/obj/Debug/net6.0/DontPlayAround.dll
+/home/enilo/Clones/moderncsharp/2022/DontPlayAround/obj/Debug/net6.0/ref/DontPlayAround.dll
+/home/enilo/Clones/moderncsharp/2022/DontPlayAround/obj/Debug/net6.0/DontPlayAround.pdb
+/home/enilo/Clones/moderncsharp/2022/DontPlayAround/obj/Debug/net6.0/DontPlayAround.genruntimeconfig.cache
