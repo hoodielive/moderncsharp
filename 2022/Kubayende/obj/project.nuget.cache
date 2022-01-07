@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nmBu6yJsN/q2f+Y4C1TsSW2y36dnaPG0Bom1apvpW9rDPaNVxSJ1qcVTvmApvOc2cCUq7awrg46vlyX+hKDiYg==",
+  "success": true,
+  "projectFilePath": "/home/enilo/Clones/moderncsharp/2022/Kubayende/Kubayende.csproj",
+  "expectedPackageFiles": [
+    "/home/enilo/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.0/microsoft.aspnetcore.app.ref.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

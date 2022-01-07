@@ -1,0 +1,15 @@
+/home/enilo/Clones/moderncsharp/Conflict/bin/Debug/net6.0/Conflict
+/home/enilo/Clones/moderncsharp/Conflict/bin/Debug/net6.0/Conflict.deps.json
+/home/enilo/Clones/moderncsharp/Conflict/bin/Debug/net6.0/Conflict.runtimeconfig.json
+/home/enilo/Clones/moderncsharp/Conflict/bin/Debug/net6.0/Conflict.dll
+/home/enilo/Clones/moderncsharp/Conflict/bin/Debug/net6.0/ref/Conflict.dll
+/home/enilo/Clones/moderncsharp/Conflict/bin/Debug/net6.0/Conflict.pdb
+/home/enilo/Clones/moderncsharp/Conflict/obj/Debug/net6.0/Conflict.csproj.AssemblyReference.cache
+/home/enilo/Clones/moderncsharp/Conflict/obj/Debug/net6.0/Conflict.GeneratedMSBuildEditorConfig.editorconfig
+/home/enilo/Clones/moderncsharp/Conflict/obj/Debug/net6.0/Conflict.AssemblyInfoInputs.cache
+/home/enilo/Clones/moderncsharp/Conflict/obj/Debug/net6.0/Conflict.AssemblyInfo.cs
+/home/enilo/Clones/moderncsharp/Conflict/obj/Debug/net6.0/Conflict.csproj.CoreCompileInputs.cache
+/home/enilo/Clones/moderncsharp/Conflict/obj/Debug/net6.0/Conflict.dll
+/home/enilo/Clones/moderncsharp/Conflict/obj/Debug/net6.0/ref/Conflict.dll
+/home/enilo/Clones/moderncsharp/Conflict/obj/Debug/net6.0/Conflict.pdb
+/home/enilo/Clones/moderncsharp/Conflict/obj/Debug/net6.0/Conflict.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qDg69iIRd/i91Yo/Iwd7gEKZaYLpbSnAEqU9VU4Y0EQdaEh6pErwojxvVOFagrLp0bZRtLTp1wdfGdnr3qJelw==",
+  "success": true,
+  "projectFilePath": "/home/enilo/Clones/moderncsharp/Conflict/Conflict.csproj",
+  "expectedPackageFiles": [
+    "/home/enilo/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.0/microsoft.aspnetcore.app.ref.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

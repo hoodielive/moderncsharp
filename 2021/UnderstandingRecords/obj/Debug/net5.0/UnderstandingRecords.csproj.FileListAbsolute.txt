@@ -14,3 +14,10 @@
 /home/arjuna/Clones/moderncsharp/UnderstandingRecords/obj/Debug/net5.0/ref/UnderstandingRecords.dll
 /home/arjuna/Clones/moderncsharp/UnderstandingRecords/obj/Debug/net5.0/UnderstandingRecords.pdb
 /home/arjuna/Clones/moderncsharp/UnderstandingRecords/obj/Debug/net5.0/UnderstandingRecords.genruntimeconfig.cache
+/home/enilo/Clones/moderncsharp/UnderstandingRecords/obj/Debug/net5.0/UnderstandingRecords.csproj.AssemblyReference.cache
+/home/enilo/Clones/moderncsharp/UnderstandingRecords/obj/Debug/net5.0/UnderstandingRecords.GeneratedMSBuildEditorConfig.editorconfig
+/home/enilo/Clones/moderncsharp/UnderstandingRecords/obj/Debug/net5.0/UnderstandingRecords.AssemblyInfoInputs.cache
+/home/enilo/Clones/moderncsharp/UnderstandingRecords/obj/Debug/net5.0/UnderstandingRecords.AssemblyInfo.cs
+/home/enilo/Clones/moderncsharp/UnderstandingRecords/obj/Debug/net5.0/UnderstandingRecords.csproj.CoreCompileInputs.cache
+/home/enilo/Clones/moderncsharp/UnderstandingRecords/obj/Debug/net5.0/UnderstandingRecords.dll
+/home/enilo/Clones/moderncsharp/UnderstandingRecords/obj/Debug/net5.0/ref/UnderstandingRecords.dll

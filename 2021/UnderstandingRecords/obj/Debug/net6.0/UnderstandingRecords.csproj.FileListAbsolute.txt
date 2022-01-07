@@ -1,0 +1,5 @@
+/home/enilo/Clones/moderncsharp/UnderstandingRecords/obj/Debug/net6.0/UnderstandingRecords.csproj.AssemblyReference.cache
+/home/enilo/Clones/moderncsharp/UnderstandingRecords/obj/Debug/net6.0/UnderstandingRecords.GeneratedMSBuildEditorConfig.editorconfig
+/home/enilo/Clones/moderncsharp/UnderstandingRecords/obj/Debug/net6.0/UnderstandingRecords.AssemblyInfoInputs.cache
+/home/enilo/Clones/moderncsharp/UnderstandingRecords/obj/Debug/net6.0/UnderstandingRecords.AssemblyInfo.cs
+/home/enilo/Clones/moderncsharp/UnderstandingRecords/obj/Debug/net6.0/UnderstandingRecords.csproj.CoreCompileInputs.cache
