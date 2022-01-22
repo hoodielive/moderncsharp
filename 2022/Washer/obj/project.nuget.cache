@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bzsNKNozfZMLdFmnm6VFhcf4UpzYNJSK/LHf7KdUFbt7dz90PQi51TpKq/yk7JvRCt/QZHCKZKjYxNK9dHxfgw==",
+  "success": true,
+  "projectFilePath": "/home/enilo/Clones/moderncsharp/2022/Washer/Washer.csproj",
+  "expectedPackageFiles": [
+    "/home/enilo/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.0/microsoft.aspnetcore.app.ref.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

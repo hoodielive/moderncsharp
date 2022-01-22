@@ -1,0 +1,15 @@
+/home/enilo/Clones/moderncsharp/2022/Washer/bin/Debug/net6.0/Washer
+/home/enilo/Clones/moderncsharp/2022/Washer/bin/Debug/net6.0/Washer.deps.json
+/home/enilo/Clones/moderncsharp/2022/Washer/bin/Debug/net6.0/Washer.runtimeconfig.json
+/home/enilo/Clones/moderncsharp/2022/Washer/bin/Debug/net6.0/Washer.dll
+/home/enilo/Clones/moderncsharp/2022/Washer/bin/Debug/net6.0/ref/Washer.dll
+/home/enilo/Clones/moderncsharp/2022/Washer/bin/Debug/net6.0/Washer.pdb
+/home/enilo/Clones/moderncsharp/2022/Washer/obj/Debug/net6.0/Washer.csproj.AssemblyReference.cache
+/home/enilo/Clones/moderncsharp/2022/Washer/obj/Debug/net6.0/Washer.GeneratedMSBuildEditorConfig.editorconfig
+/home/enilo/Clones/moderncsharp/2022/Washer/obj/Debug/net6.0/Washer.AssemblyInfoInputs.cache
+/home/enilo/Clones/moderncsharp/2022/Washer/obj/Debug/net6.0/Washer.AssemblyInfo.cs
+/home/enilo/Clones/moderncsharp/2022/Washer/obj/Debug/net6.0/Washer.csproj.CoreCompileInputs.cache
+/home/enilo/Clones/moderncsharp/2022/Washer/obj/Debug/net6.0/Washer.dll
+/home/enilo/Clones/moderncsharp/2022/Washer/obj/Debug/net6.0/ref/Washer.dll
+/home/enilo/Clones/moderncsharp/2022/Washer/obj/Debug/net6.0/Washer.pdb
+/home/enilo/Clones/moderncsharp/2022/Washer/obj/Debug/net6.0/Washer.genruntimeconfig.cache
