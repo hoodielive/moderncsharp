@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Zy1dQSgUNr7aZBmn0Z8ElB6xepGsG7j5xElQD8PcOoLFNtPkqRJJoTLm2hUfBuicJRJ4T9BdC0+yzD6rNu83ig==",
+  "success": true,
+  "projectFilePath": "/home/enilo/Clones/moderncsharp/2022/Orac/Orac.csproj",
+  "expectedPackageFiles": [
+    "/home/enilo/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.0/microsoft.aspnetcore.app.ref.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

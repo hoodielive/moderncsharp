@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bxOn+5vQA0lTp1cfJrkY7miDk7yKdd94PXCrSTdvuDGbBL9Xlt9/tNPS+GsDI1GGEdE/clEEauxHSO4+qitdNg==",
+  "success": true,
+  "projectFilePath": "/home/enilo/Clones/moderncsharp/2022/EventsAndDelegates/EventsAndDelegates.csproj",
+  "expectedPackageFiles": [
+    "/home/enilo/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.0/microsoft.aspnetcore.app.ref.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
