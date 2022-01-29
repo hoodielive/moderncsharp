@@ -2,6 +2,7 @@
 
 class Orac
 {
+    public bool isActive = false;
     public int Age = 10;
     static readonly string TempFolder = System.IO.Path.GetTempPath();
     static readonly int legs = 8, eyes = 2;
