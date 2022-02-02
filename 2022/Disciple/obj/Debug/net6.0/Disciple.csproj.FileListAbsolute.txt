@@ -1,0 +1,5 @@
+/home/enilo/Clones/moderncsharp/2022/Disciple/obj/Debug/net6.0/Disciple.csproj.AssemblyReference.cache
+/home/enilo/Clones/moderncsharp/2022/Disciple/obj/Debug/net6.0/Disciple.GeneratedMSBuildEditorConfig.editorconfig
+/home/enilo/Clones/moderncsharp/2022/Disciple/obj/Debug/net6.0/Disciple.AssemblyInfoInputs.cache
+/home/enilo/Clones/moderncsharp/2022/Disciple/obj/Debug/net6.0/Disciple.AssemblyInfo.cs
+/home/enilo/Clones/moderncsharp/2022/Disciple/obj/Debug/net6.0/Disciple.csproj.CoreCompileInputs.cache
