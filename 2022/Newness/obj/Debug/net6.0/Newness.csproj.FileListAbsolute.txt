@@ -1,0 +1,15 @@
+/home/enilo/Clones/moderncsharp/2022/Newness/bin/Debug/net6.0/Newness
+/home/enilo/Clones/moderncsharp/2022/Newness/bin/Debug/net6.0/Newness.deps.json
+/home/enilo/Clones/moderncsharp/2022/Newness/bin/Debug/net6.0/Newness.runtimeconfig.json
+/home/enilo/Clones/moderncsharp/2022/Newness/bin/Debug/net6.0/Newness.dll
+/home/enilo/Clones/moderncsharp/2022/Newness/bin/Debug/net6.0/ref/Newness.dll
+/home/enilo/Clones/moderncsharp/2022/Newness/bin/Debug/net6.0/Newness.pdb
+/home/enilo/Clones/moderncsharp/2022/Newness/obj/Debug/net6.0/Newness.csproj.AssemblyReference.cache
+/home/enilo/Clones/moderncsharp/2022/Newness/obj/Debug/net6.0/Newness.GeneratedMSBuildEditorConfig.editorconfig
+/home/enilo/Clones/moderncsharp/2022/Newness/obj/Debug/net6.0/Newness.AssemblyInfoInputs.cache
+/home/enilo/Clones/moderncsharp/2022/Newness/obj/Debug/net6.0/Newness.AssemblyInfo.cs
+/home/enilo/Clones/moderncsharp/2022/Newness/obj/Debug/net6.0/Newness.csproj.CoreCompileInputs.cache
+/home/enilo/Clones/moderncsharp/2022/Newness/obj/Debug/net6.0/Newness.dll
+/home/enilo/Clones/moderncsharp/2022/Newness/obj/Debug/net6.0/ref/Newness.dll
+/home/enilo/Clones/moderncsharp/2022/Newness/obj/Debug/net6.0/Newness.pdb
+/home/enilo/Clones/moderncsharp/2022/Newness/obj/Debug/net6.0/Newness.genruntimeconfig.cache
