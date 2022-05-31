@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "I3JhjbuK6YXD6Ocl5VA4UQRwcC5V+az2AbXcOND907LPAkioZNMXVS7BC72ZqRv8//IoZgwGM19ptNH3vzSoCA==",
+  "success": true,
+  "projectFilePath": "/home/enilo/Clones/moderncsharp/2022/SetBits/SetBits.csproj",
+  "expectedPackageFiles": [
+    "/home/enilo/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.2/microsoft.aspnetcore.app.ref.6.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
