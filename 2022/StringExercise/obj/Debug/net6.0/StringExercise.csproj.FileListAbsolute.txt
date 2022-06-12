@@ -1,0 +1,15 @@
+/home/enilo/Clones/moderncsharp/2022/StringExercise/bin/Debug/net6.0/StringExercise
+/home/enilo/Clones/moderncsharp/2022/StringExercise/bin/Debug/net6.0/StringExercise.deps.json
+/home/enilo/Clones/moderncsharp/2022/StringExercise/bin/Debug/net6.0/StringExercise.runtimeconfig.json
+/home/enilo/Clones/moderncsharp/2022/StringExercise/bin/Debug/net6.0/StringExercise.dll
+/home/enilo/Clones/moderncsharp/2022/StringExercise/bin/Debug/net6.0/ref/StringExercise.dll
+/home/enilo/Clones/moderncsharp/2022/StringExercise/bin/Debug/net6.0/StringExercise.pdb
+/home/enilo/Clones/moderncsharp/2022/StringExercise/obj/Debug/net6.0/StringExercise.csproj.AssemblyReference.cache
+/home/enilo/Clones/moderncsharp/2022/StringExercise/obj/Debug/net6.0/StringExercise.GeneratedMSBuildEditorConfig.editorconfig
+/home/enilo/Clones/moderncsharp/2022/StringExercise/obj/Debug/net6.0/StringExercise.AssemblyInfoInputs.cache
+/home/enilo/Clones/moderncsharp/2022/StringExercise/obj/Debug/net6.0/StringExercise.AssemblyInfo.cs
+/home/enilo/Clones/moderncsharp/2022/StringExercise/obj/Debug/net6.0/StringExercise.csproj.CoreCompileInputs.cache
+/home/enilo/Clones/moderncsharp/2022/StringExercise/obj/Debug/net6.0/StringExercise.dll
+/home/enilo/Clones/moderncsharp/2022/StringExercise/obj/Debug/net6.0/ref/StringExercise.dll
+/home/enilo/Clones/moderncsharp/2022/StringExercise/obj/Debug/net6.0/StringExercise.pdb
+/home/enilo/Clones/moderncsharp/2022/StringExercise/obj/Debug/net6.0/StringExercise.genruntimeconfig.cache

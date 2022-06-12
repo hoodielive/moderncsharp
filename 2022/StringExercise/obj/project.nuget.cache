@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hhV4XTPf46hEjFL98c74W3jcRsox0fx91Qd5UPzZPJP4+BocheDbaKZckDvSyNoddRJH/huXlPcbpmzRG7sJlg==",
+  "success": true,
+  "projectFilePath": "/home/enilo/Clones/moderncsharp/2022/StringExercise/StringExercise.csproj",
+  "expectedPackageFiles": [
+    "/home/enilo/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.2/microsoft.aspnetcore.app.ref.6.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
