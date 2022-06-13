@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "sthvfIqq/vm7S5FHPqNW424OjxHaQr3BBB5wB5O4SPTHBPYl5MfwVyh23pVBQo+1rFfVSnr7RKeRAoAkxpU4xA==",
+  "success": true,
+  "projectFilePath": "/home/enilo/Clones/moderncsharp/2022/Conduit/Conduit.csproj",
+  "expectedPackageFiles": [
+    "/home/enilo/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.2/microsoft.aspnetcore.app.ref.6.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
