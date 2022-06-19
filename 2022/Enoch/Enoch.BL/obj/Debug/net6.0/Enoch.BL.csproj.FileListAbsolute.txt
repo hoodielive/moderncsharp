@@ -1,0 +1,5 @@
+/home/enilo/Clones/moderncsharp/2022/Enoch/Enoch.BL/obj/Debug/net6.0/Enoch.BL.csproj.AssemblyReference.cache
+/home/enilo/Clones/moderncsharp/2022/Enoch/Enoch.BL/obj/Debug/net6.0/Enoch.BL.GeneratedMSBuildEditorConfig.editorconfig
+/home/enilo/Clones/moderncsharp/2022/Enoch/Enoch.BL/obj/Debug/net6.0/Enoch.BL.AssemblyInfoInputs.cache
+/home/enilo/Clones/moderncsharp/2022/Enoch/Enoch.BL/obj/Debug/net6.0/Enoch.BL.AssemblyInfo.cs
+/home/enilo/Clones/moderncsharp/2022/Enoch/Enoch.BL/obj/Debug/net6.0/Enoch.BL.csproj.CoreCompileInputs.cache

@@ -1,4 +1,4 @@
- public class UnitConverter
+public class UnitConverter
 {
   int ratio;
 
@@ -6,7 +6,7 @@
   {
     ratio = unitRadio;
   }
-
+  
   public int Convert(int unit)
   {
     return unit * ratio;
