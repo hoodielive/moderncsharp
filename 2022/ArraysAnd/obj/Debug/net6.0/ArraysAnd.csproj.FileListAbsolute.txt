@@ -1,0 +1,15 @@
+/home/enilo/Clones/moderncsharp/2022/ArraysAnd/bin/Debug/net6.0/ArraysAnd
+/home/enilo/Clones/moderncsharp/2022/ArraysAnd/bin/Debug/net6.0/ArraysAnd.deps.json
+/home/enilo/Clones/moderncsharp/2022/ArraysAnd/bin/Debug/net6.0/ArraysAnd.runtimeconfig.json
+/home/enilo/Clones/moderncsharp/2022/ArraysAnd/bin/Debug/net6.0/ArraysAnd.dll
+/home/enilo/Clones/moderncsharp/2022/ArraysAnd/bin/Debug/net6.0/ref/ArraysAnd.dll
+/home/enilo/Clones/moderncsharp/2022/ArraysAnd/bin/Debug/net6.0/ArraysAnd.pdb
+/home/enilo/Clones/moderncsharp/2022/ArraysAnd/obj/Debug/net6.0/ArraysAnd.csproj.AssemblyReference.cache
+/home/enilo/Clones/moderncsharp/2022/ArraysAnd/obj/Debug/net6.0/ArraysAnd.GeneratedMSBuildEditorConfig.editorconfig
+/home/enilo/Clones/moderncsharp/2022/ArraysAnd/obj/Debug/net6.0/ArraysAnd.AssemblyInfoInputs.cache
+/home/enilo/Clones/moderncsharp/2022/ArraysAnd/obj/Debug/net6.0/ArraysAnd.AssemblyInfo.cs
+/home/enilo/Clones/moderncsharp/2022/ArraysAnd/obj/Debug/net6.0/ArraysAnd.csproj.CoreCompileInputs.cache
+/home/enilo/Clones/moderncsharp/2022/ArraysAnd/obj/Debug/net6.0/ArraysAnd.dll
+/home/enilo/Clones/moderncsharp/2022/ArraysAnd/obj/Debug/net6.0/ref/ArraysAnd.dll
+/home/enilo/Clones/moderncsharp/2022/ArraysAnd/obj/Debug/net6.0/ArraysAnd.pdb
+/home/enilo/Clones/moderncsharp/2022/ArraysAnd/obj/Debug/net6.0/ArraysAnd.genruntimeconfig.cache
