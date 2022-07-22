@@ -6,5 +6,7 @@
     osa.FirstName = "Osa";
     osa.LastName = "Oso";
     osa.Introduce();
+    osa.middleName = "Mi";
+    osa.middleName.Contains
   }
 }

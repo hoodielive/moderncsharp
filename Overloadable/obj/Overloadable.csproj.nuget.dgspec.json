@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/enilo/Clones/moderncsharp/2022/ArraysAnd/ArraysAnd.csproj": {}
+    "/Users/enilo/Clones/moderncsharp/Overloadable/Overloadable.csproj": {}
   },
   "projects": {
-    "/Users/enilo/Clones/moderncsharp/2022/ArraysAnd/ArraysAnd.csproj": {
+    "/Users/enilo/Clones/moderncsharp/Overloadable/Overloadable.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/enilo/Clones/moderncsharp/2022/ArraysAnd/ArraysAnd.csproj",
-        "projectName": "ArraysAnd",
-        "projectPath": "/Users/enilo/Clones/moderncsharp/2022/ArraysAnd/ArraysAnd.csproj",
+        "projectUniqueName": "/Users/enilo/Clones/moderncsharp/Overloadable/Overloadable.csproj",
+        "projectName": "Overloadable",
+        "projectPath": "/Users/enilo/Clones/moderncsharp/Overloadable/Overloadable.csproj",
         "packagesPath": "/Users/enilo/.nuget/packages/",
-        "outputPath": "/Users/enilo/Clones/moderncsharp/2022/ArraysAnd/obj/",
+        "outputPath": "/Users/enilo/Clones/moderncsharp/Overloadable/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/enilo/.nuget/NuGet/NuGet.Config"
