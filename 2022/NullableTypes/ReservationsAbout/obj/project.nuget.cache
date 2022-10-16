@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tUhoFBDfK41fuAZpHvbIGn6vt2jEBNXljHdz23AZXVFOC1FH1oP3N6IaPTMl802JZVlILR8+Vls2utK5gBsnRA==",
+  "success": true,
+  "projectFilePath": "/home/enilo/Clones/moderncsharp/2022/NullableTypes/ReservationsAbout/ReservationsAbout.csproj",
+  "expectedPackageFiles": [
+    "/home/enilo/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.9/microsoft.aspnetcore.app.ref.6.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}

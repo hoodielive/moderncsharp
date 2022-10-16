@@ -1,0 +1,5 @@
+/home/enilo/Clones/moderncsharp/2022/NullableTypes/ReservationsAbout/obj/Debug/net6.0/ReservationsAbout.csproj.AssemblyReference.cache
+/home/enilo/Clones/moderncsharp/2022/NullableTypes/ReservationsAbout/obj/Debug/net6.0/ReservationsAbout.GeneratedMSBuildEditorConfig.editorconfig
+/home/enilo/Clones/moderncsharp/2022/NullableTypes/ReservationsAbout/obj/Debug/net6.0/ReservationsAbout.AssemblyInfoInputs.cache
+/home/enilo/Clones/moderncsharp/2022/NullableTypes/ReservationsAbout/obj/Debug/net6.0/ReservationsAbout.AssemblyInfo.cs
+/home/enilo/Clones/moderncsharp/2022/NullableTypes/ReservationsAbout/obj/Debug/net6.0/ReservationsAbout.csproj.CoreCompileInputs.cache
