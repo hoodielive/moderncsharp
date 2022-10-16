@@ -1,0 +1,15 @@
+/Users/enilo/Clones/moderncsharp/Overloadable/obj/Debug/net6.0/Overloadable.csproj.AssemblyReference.cache
+/Users/enilo/Clones/moderncsharp/Overloadable/obj/Debug/net6.0/Overloadable.GeneratedMSBuildEditorConfig.editorconfig
+/Users/enilo/Clones/moderncsharp/Overloadable/obj/Debug/net6.0/Overloadable.AssemblyInfoInputs.cache
+/Users/enilo/Clones/moderncsharp/Overloadable/obj/Debug/net6.0/Overloadable.AssemblyInfo.cs
+/Users/enilo/Clones/moderncsharp/Overloadable/obj/Debug/net6.0/Overloadable.csproj.CoreCompileInputs.cache
+/Users/enilo/Clones/moderncsharp/Overloadable/bin/Debug/net6.0/Overloadable
+/Users/enilo/Clones/moderncsharp/Overloadable/bin/Debug/net6.0/Overloadable.deps.json
+/Users/enilo/Clones/moderncsharp/Overloadable/bin/Debug/net6.0/Overloadable.runtimeconfig.json
+/Users/enilo/Clones/moderncsharp/Overloadable/bin/Debug/net6.0/Overloadable.dll
+/Users/enilo/Clones/moderncsharp/Overloadable/bin/Debug/net6.0/ref/Overloadable.dll
+/Users/enilo/Clones/moderncsharp/Overloadable/bin/Debug/net6.0/Overloadable.pdb
+/Users/enilo/Clones/moderncsharp/Overloadable/obj/Debug/net6.0/Overloadable.dll
+/Users/enilo/Clones/moderncsharp/Overloadable/obj/Debug/net6.0/ref/Overloadable.dll
+/Users/enilo/Clones/moderncsharp/Overloadable/obj/Debug/net6.0/Overloadable.pdb
+/Users/enilo/Clones/moderncsharp/Overloadable/obj/Debug/net6.0/Overloadable.genruntimeconfig.cache
