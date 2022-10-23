@@ -1,0 +1,5 @@
+/home/enilo/Clones/moderncsharp/2022/LetsPracticeTypes/obj/Debug/net6.0/LetsPracticeTypes.csproj.AssemblyReference.cache
+/home/enilo/Clones/moderncsharp/2022/LetsPracticeTypes/obj/Debug/net6.0/LetsPracticeTypes.GeneratedMSBuildEditorConfig.editorconfig
+/home/enilo/Clones/moderncsharp/2022/LetsPracticeTypes/obj/Debug/net6.0/LetsPracticeTypes.AssemblyInfoInputs.cache
+/home/enilo/Clones/moderncsharp/2022/LetsPracticeTypes/obj/Debug/net6.0/LetsPracticeTypes.AssemblyInfo.cs
+/home/enilo/Clones/moderncsharp/2022/LetsPracticeTypes/obj/Debug/net6.0/LetsPracticeTypes.csproj.CoreCompileInputs.cache

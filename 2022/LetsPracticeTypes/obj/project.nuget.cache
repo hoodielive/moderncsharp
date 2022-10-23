@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "w7H1wrq7ug3uiv9ggfK9hYs+WSS5o08dHAgLTP8/P9Wf+KRB+C/8leh7iPW/tv5smZsHkBNyrbTmy+Zo08tLyg==",
+  "success": true,
+  "projectFilePath": "/home/enilo/Clones/moderncsharp/2022/LetsPracticeTypes/LetsPracticeTypes.csproj",
+  "expectedPackageFiles": [
+    "/home/enilo/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.9/microsoft.aspnetcore.app.ref.6.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}
